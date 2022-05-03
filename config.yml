@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://luxury-pony-876c53.netlify.app"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
