@@ -1,35 +1,193 @@
-baseURL: "https://luxury-pony-876c53.netlify.app"
-languageCode: en-us
-title: Demo for Hugo
+baseURL: "https://examplesite.com/"
+title: Rustam's blog
+paginate: 5
 theme: PaperMod
-#trlalala
+
+enableRobotsTXT: true
+buildDrafts: true
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
 params:
-  homeInfoParams:
-    Title: "Hi! Welcome to my page!"
-    Content: "Welcome to my blog and info page! You will a lot of cool information on my page."
-  socialICons:
-      - name: facebook
-        url: "https://www.facebook.com/rustam.lukmanov.73"
-      - name: LinkedIn
-        url: "https://www.linkedin.com/in/rustam-lukmanov-604695100/"
-  cover: 
-    linkFullImages: true
-  ShowBreadCrumbs: true
-  ShowReadingTime: true
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Rustam's website
+  description: "Rustam's blog"
+  keywords: [Blog, Portfolio, PaperMod]
+  paginate: 20
+  #author: Lukmanov R.A.
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
-  ##ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  ##Search paprams
+  params:
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/circle.png"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "/circle.png"
+    safari_pinned_tab: "/circle.png"
+
+  label:
+    text: "     | Rustam A. Lukmanov "
+    icon: /circle.png
+    iconHeight: 35
+
+  # profile-mode
+ # profileMode:
+    enabled: true # needs to be explicitly set
+    title: Hi \U0001f44b there!
+    #subtitle: "This is subtitle"
+    subtitle: "
+    
+
+
+> ### Hi \U0001f44b I am a Research Scientist. I am interested in scalable, principled methods for analyzing graph data in an unsupervised manner. &nbsp;  
+
+
+I received Ph.D. \U0001f393 in experimental phyiscs at the University of Bern, advised by Prof. Peter Wurz. I did my masters and bachelors at Saint Petersburg State University in Saint Petersburg, Russia. My M.Sc. advisor was Alexey Goncharov. In Russian, my name reads as Рустам Лукманов.
+
+For publications, see Google Scholar. For code, see GitHub.
+
+Feel free to contact me by email: mail at rustam-lukmanov dot ru.
+
+
+> Right now I am working on "
+    #imageUrl: "/box.png"
+    imageWidth: 220
+    imageHeight: 220
+    imageTitle: my image
+    buttons:
+      - name: Blog
+        url: blog
+      - name: Publications
+        url: publications
+      - name: Resume
+        url: cv
+      - name: Contact Information
+        url: contact
+  # home-info mode
+  homeInfoParams:
+    Title: " Hi there! \U0001f44b"
+    Content: "
+    
+----
+
+### I am a Research Scientist interested in scalable, principled methods for analyzing graph data in an unsupervised manner. &nbsp;  
+
+--------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+I received Ph.D. \U0001f393 in experimental phyiscs at the University of Bern, advised by Prof. Peter Wurz. I did my masters and bachelors at Saint Petersburg State University in Saint Petersburg, Russia. My M.Sc. advisor was Alexey Goncharov. In Russian, my name reads as Рустам Лукманов.
+
+For publications, see [**Google Scholar**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) or section publications. For code, see GitHub.
+
+Feel free to contact me by email: mail at rustam-lukmanov dot ru.
+
+<hr>
+
+Right now I am working on "
+
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+    - name: google scholar
+      url: "https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  #editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: false # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-  - identifier: categories
-    name: Categories
-    url: /categories/
-    weight: 10
-  - identifier: tags
-    name: Tags
-    url: /tags/
-    weight: 20
-  - idneitfier: archives
-    name: Archives
-    url: /archives/
-    weight: 30 
-    
+    - identifier: Blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: Publications
+      name: Publications
+      url: /publications/
+      weight: 30
+    - identifier: CV
+      name: CV
+      url: /CV/
+      weight: 40
+    - identifier: Contact
+      name: Contact
+      url: /contact/
+      weight: 50
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 50
