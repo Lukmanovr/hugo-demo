@@ -3,6 +3,18 @@ title: Rustam A. Lukmanov
 paginate: 20
 theme: PaperMod
 
+defaultContentLanguage: en
+languages:
+  ru:
+    #languagedirection: rtl
+    title: Рустам Лукманов
+    weight: 2
+  en:
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 1
+
 
 enableRobotsTXT: true
 buildDrafts: true
