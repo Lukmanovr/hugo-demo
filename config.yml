@@ -1,5 +1,5 @@
 baseURL: "https://adorable-biscuit-3b82eb.netlify.app"
-title: Rustam A. Lukmanov
+title: R. A. Lukmanov
 paginate: 20
 theme: PaperMod
 
@@ -12,8 +12,13 @@ languages:
   en:
     params:
       linkedin: https://linkedin.com/whoever
-    title: My blog
+    title: Rustam A. Lukmanov
     weight: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true #Swithces on JS scritps and tags
 
 
 enableRobotsTXT: true
@@ -80,7 +85,7 @@ params:
     safari_pinned_tab: "/circle3.png"
 
   label:
-    text: "| Rustam A. Lukmanov "
+    text: "| R.A. Lukmanov "
     icon: /circle.png
     iconHeight: 35
 
@@ -119,41 +124,49 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
         url: contact
   # home-info mode
   homeInfoParams:
-    Title: " Hi there! \U0001f44b"
+    Title: " [Rustam A. Lukmanov 👨🏻‍🔬](/cv/)"
     Content: "
-    
+    <p> I am a Research Scientist interested in scalable, unsupervised methods for construction and analysis of graph data. Much of my focus lies in the intersection of analytical chemsitry and graph-theoretic data processing. Currently, dabbling in the world of entrepreneurship
+    </p>
+    <br/>
+    <p>   
 
-      ### I am a Research Scientist interested in scalable, principled methods for analyzing graph data in an unsupervised manner. &nbsp;  
 
-      --------------------------------------------------------------------------------------------------------------------------------------
+    </p>  
+
   
   
-      I received Ph.D. \U0001f393 in experimental phyiscs at the University of Bern, advised by Prof. Peter Wurz. I did my masters and bachelors at Saint Petersburg State University in Saint Petersburg, Russia. My M.Sc. advisor was Alexey Goncharov. In Russian, my name reads as Рустам Лукманов.
+      I received a Ph.D. \U0001f393 in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Maker Tulej</u>](http://www.marek-tulej.ch/). 
+        
+      The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
+        
+        Considerable part of my research is about creating graph-structured objects from chemical/sensor data and efficient mining of the structural organization of such objects. More broadly my reaserch devoted to bridging the hardware and software development for **efficient** and **fast** insight retrieval from analytical setups.  I did my masters and bachelors at Saint Petersburg State University in Saint Petersburg, Russia.  
+   <p>
+   <br/>
+   </p>   
+               
 
-      For publications, see [**Google Scholar**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) or [my **Loop** profile](https://loop.frontiersin.org/people/1234341/overview). For code, see GitHub.
+      For publications, see [**Google Scholar**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) or my [**LOOP**](https://loop.frontiersin.org/people/1234341/overview) profile. For code, see GitHub.
 
-      Feel free to contact me by email: mail at rustam-lukmanov dot ru.
+      Feel free to contact me through links attached below.
 
       
-
-      > - [**Contact me** 📧](/contact/)  
-
-      > - [**Archive** 🗃️](/archives/)  
-
-      > - [**Publications** 📝](/publications/)  
-        
       > - [**Curriculum Vitae** 👔](/cv/)  
+        
+      > - [**Publications** 📝](/publications/)  
+
+      > - [**Contact me** 📧](/contact/)
+  
         
       
       You can also follow me on social media:
         
-      > - [**Instagram** 📧](/contact/)  
-
-      > - [**Twitter** 🗃️](/archives/)  
-
-      > - [**Facebook** 📝](/publications/)  
+      > - [**Instagram** 📧](https://www.instagram.com/lukmanovr/)/[**Twitter** 🗃️](/archives/) / [**LinkedIn** 📝](/publications/) / [**Telegram** 👔](/cv/)
         
-      > - [**Telegram** 👔](/cv/)"
+
+      Sometimes, I write here about random things, check it out below:  
+      
+      > - [**Archive** 🗃️](/archives/)"
   #socialIcons:
   #  - name: twitter
   #    url: "https://twitter.com/"
@@ -217,4 +230,4 @@ menu:
     - identifier: Search
       name: Search
       url: /search/
-      weight: 50
+      weight: 60

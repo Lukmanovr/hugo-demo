@@ -12,24 +12,25 @@ cover:
   caption: "Hey, that's my picture!"
 ---
 
-{{< figure align=center src="/Profile.jpg" >}}
-_That's my picture!_
+You can download this page as a PDF [**here**](cv.pdf)
 
 #### PERSONAL INFORMATION
 
-> Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian
+> **Rustam A. Lukmanov** / 08.09.1992 / Male / Citizenship – Russian
 
 #### CONTACT INFORMATION
 
-Feel free to contact me:
-mail@rustam-lukmanov.ru
+> Feel free to contact me:
+> mail@rustam-lukmanov.ru
 
 #### EMPLOYMENT HISTORY
 
-- 2017 – 2021, Teaching Associate, Physics Institute, University of Bern, Switzerland.
-  Teaching laboratory classes (seminars) on introductory physics.
-- 2015 – 2017, Engineer Geophysicist, Russian Geological Research Institute (VSEGEI), Saint Petersburg, Russia.
-  Multiplexing geophysical data for the construction of geological maps. Large-scale investigations of archived data, interpretation of seismic, magnetic, and gamma-ray data.
+> - 2017 – 2021, Teaching Associate, Physics Institute, University of Bern, Switzerland.
+>   Teaching laboratory classes (seminars) on introductory physics.
+
+> - 2015 – 2017, Engineer Geophysicist, Russian Geological Research Institute (VSEGEI), Saint Petersburg, Russia.
+>   Multiplexing geophysical data for the construction of geological maps. Large-scale investigations of archived data, interpretation of seismic, magnetic, and gamma-ray data.
+
 - 2014 – 2015, Technician, Seismoshelf, Saint-Petersburg, Russia.
   Participated in the seismic exploration survey conducted on the shoreline.
 
