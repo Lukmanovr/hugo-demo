@@ -34,11 +34,14 @@ editPost:
 ---
 
 {{< figure align=center src="/circle.png" >}}
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
 
 ## Headings
+
+{{< carousel items="3" height="500" unit="px" duration="7000" >}}
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
