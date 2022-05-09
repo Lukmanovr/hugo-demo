@@ -1,9 +1,9 @@
 ---
 title: "Going live"
-date: 2022-05-02 T13:50:24+03:00
+date: 2021-09-15T11:30:03+00:00
 draft: false
 cover:
-  image: "static/circle.png"
+  image: "images/live.png"
   alt: "This is my picture"
   caption: "Hey, that's my picture!"
 tags:
