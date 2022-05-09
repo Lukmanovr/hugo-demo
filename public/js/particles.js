@@ -1,4 +1,4 @@
-particles('particles-js', {
+particlesJS('particles-js', {
   canvas: {
     color_hex_bg: '#15414e',
     opacity: 1

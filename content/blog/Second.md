@@ -11,9 +11,9 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Still figuring it out"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -22,10 +22,10 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: images/circle.png # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
     URL: "https://github.com/<path_to_repo>/content"
@@ -33,6 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+{{< figure align=center src="/circle.png" >}}
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
@@ -122,15 +123,28 @@ This is pre text
 
 ```html {linenos=true}
 <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8" />
-        <title>Example HTML5 Document</title>
-        <meta name="description" content="Sample article showcasing basic Markdown syntax and formatting for HTML elements.">
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
+<html
+  lang="en"
+>
+  <head>
+    <meta
+      charset="utf-8"
+    />
+    <title>
+      Example
+      HTML5
+      Document
+    </title>
+    <meta
+      name="description"
+      content="Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+    />
+  </head>
+  <body>
+    <p>
+      Test
+    </p>
+  </body>
 </html>
 ```
 
@@ -177,19 +191,19 @@ This is pre text
 
 #### Unordered List
 
--   List item
--   Another item
--   And another item
+- List item
+- Another item
+- And another item
 
 #### Nested list
 
--   Fruit
-    -   Apple
-    -   Orange
-    -   Banana
--   Dairy
-    -   Milk
-    -   Cheese
+- Fruit
+  - Apple
+  - Orange
+  - Banana
+- Dairy
+  - Milk
+  - Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
