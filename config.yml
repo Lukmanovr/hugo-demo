@@ -11,8 +11,7 @@ languages:
     weight: 2
   en:
     params:
-      linkedin: https://linkedin.com/whoever
-    title: Rustam A. Lukmanov
+          title: Rustam A. Lukmanov
     weight: 1
 
 markup:

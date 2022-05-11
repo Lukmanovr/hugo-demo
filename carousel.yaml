@@ -1,9 +1,0 @@
-images:
-  - image: "/circle.png"
-    content_html: "1"
-  - image: "/Profile.jpg"
-    content_html: "2"
-  - image: "/circle3.png"
-    content_html: "3"
-  - image: //circle3.png
-    content_html: "4"
