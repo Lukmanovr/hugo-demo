@@ -41,8 +41,6 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 ## Headings
 
-{{< carousel items="3" height="500" unit="px" duration="7000" >}}
-
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
