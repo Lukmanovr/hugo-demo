@@ -2,54 +2,87 @@
 title: "Publications &#128221 "
 layout: "publications"
 url: "/publications/"
-summary: publivations
+summary: publications
 draft: false
 weight: 1
+tags: ["Secons"]
+author: "Me"
+# author: ["Me", "You"] # multiple authors
+showToc: false
+TocOpen: false
+draft: false
+hidemeta: false
+comments: false
+description: "List of peer-reviewed publications and conference contributions"
+canonicalURL: "https://canonical.url/to/page"
+disableHLJS: false # to disable highlightjs
+disableShare: false
+disableHLJS: false
+hideSummary: false
+searchHidden: false
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+cover:
+    image: images/circle.png # image path/url
+    alt: "<alt text>" # alt text
+    caption: "<text>" # display caption under cover
+    relative: true # when using page bundles set this to true
+    hidden: true # only hide on current single page
+editPost:
+    URL: "mail@rustam-lukmanov.ru"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 
-> 1.  **Lukmanov R.A.**, Tulej M., Wiesendanger R., Riedo A., Grimaudo V., Ligterink
->     N., de Koning C., Neubeck A., Wacey D., and Wurz P., “Multi-wavelength
->     ablation/ionisation and mass spectrometric analysis of 1.88 Ga Gunflint
->     Chert” Astrobiology (2022).
->     [**PDF file**](https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201)
+---
 
-2. Lukmanov R. A., Tulej M., W. Ligterink N. F., De Koning C., Riedo A., Grimaudo
-   V., Neubeck A., Wacey D., and Peter Wurz, “Chemical identification of
-   microfossils from the 1.88 Ga Gunflint chert. Towards empirical
-   biosignatures using LIMS” Chemometrics (2020)
-3. Lukmanov R. A., Riedo A., Wacey D., Ligterink N. F. W., Grimaudo V., Tulej M.,
-   De Koning C., Neubeck A., and Peter Wurz, “On topological analysis of fs-LIMS
-   data. Implications for in situ planetary mass spectrometry”, Frontiers in
-   Machine Learning and Artificial Intelligence (2021)
-4. Lukmanov R. A., de Koning C., Schmidt P. K., Wacey D., Ligterink N. F.W.,
-   Gruchola S., Grimaudo V., Neubeck A., Riedo A., Tulej M., and Peter Wurz,
-   “High-Resolution fs-LIMS 3D imaging and manifold learning reveal insight
-   into chemical diversity of the Gunflint chert (1.88 Ga)”, Frontiers in
-   Astrobiology, (2021), submitted.
-5. Lukmanov R. A., Tulej M., and Peter Wurz, “Aufspüren extraterrestrischer
-   Lebenszeichen im Sonnensystem mittels lasergestützter
-   Massenspektrometrie”, VetsuisseNews, (2021)
-6. Ligterink, N.F., Grimaudo, V., Moreno-García, P., Lukmanov, R., Tulej, M., Leya,
-   I., Lindner, R., Wurz, P., Cockell, C.S., Ehrenfreund, P. and Riedo, A., 2020.
-   ORIGIN: a novel and compact Laser Desorption–Mass Spectrometry system
-   for sensitive in situ detection of amino acids on extraterrestrial surfaces.
-   Scientific reports, 10(1), pp.1-10.
-7. Wiesendanger, R., Grimaudo, V., Tulej, M., Riedo, A., Lukmanov, R., Ligterink,
-   N., Fausch, R., Shea, H. and Wurz, P., 2019. The LMS-GT instrument–a new
-   perspective for quantification with the LIMS-TOF measurement technique.
-   Journal of analytical atomic spectrometry, 34(10), pp.2061-2073.
-8. Grimaudo, V., Tulej, M., Riedo, A., Lukmanov, R., Ligterink, N.F., de Koning, C.
-   and Wurz, P., 2020. UV post-ionization laser ablation ionization mass
-   spectrometry for improved nm-depth profiling resolution on Cr/Ni reference
-   standard. Rapid communications in mass spectrometry, 34(14), p.e8803.
-9. Riedo, A., Lukmanov, R., Grimaudo, V., de Koning, C., Ligterink, N.F., Tulej, M.
-   and Wurz, P., 2021. Improved plasma stoichiometry recorded by LIMS by
-   using a double-pulse femtosecond laser ablation ion source. Rapid
-   Communications in Mass Spectrometry, p.e9094.
-10. Tulej, M., Neubeck, A., Riedo, A., Lukmanov, R., Grimaudo, V., Ligterink, N.F.,
-    Ivarsson, M., Bach, W., de Koning, C. and Wurz, P., 2020. Isotope abundance
-    ratio measurements using femtosecond laser ablation ionization mass
-    spectrometry. Journal of Mass Spectrometry, 55(12), p.e4660.
+1.  **Lukmanov, R.A.**, Tulej, M., Wiesendanger, R., Riedo, A., Grimaudo, V., Ligterink, N.F., de Koning, C., Neubeck, A., Wacey, D. and Wurz, P., 2022. Multiwavelength Ablation/Ionization and Mass Spectrometric Analysis of 1.88 Ga Gunflint Chert. Astrobiology, 22(4), pp.369-386.
+
+    <a href="/PDF/ast.2019.2201.pdf" target="_blank">**PDF**</a> / <a href="/PDF/ast.2019.2201.pdf" target="_blank">**Paper**</a>
+
+    ***
+
+2.  **Lukmanov R.A.**, Tulej M., W. Ligterink N. F., De Koning C., Riedo A., Grimaudo
+    V., Neubeck A., Wacey D., and Peter Wurz, “Chemical identification of
+    microfossils from the 1.88 Ga Gunflint chert. Towards empirical
+    biosignatures using LIMS” Chemometrics (2021)
+
+    > <a href="/PDF/Journal of Chemometrics - 2021 - Lukmanov - Chemical identification of microfossils from the 1 88‐Ga Gunflint chert.pdf" target="\_blank">**PDF**</a>
+
+> 3. **Lukmanov R.A.**, Riedo A., Wacey D., Ligterink N. F. W., Grimaudo V., Tulej M.,
+>    De Koning C., Neubeck A., and Peter Wurz, “On topological analysis of fs-LIMS
+>    data. Implications for in situ planetary mass spectrometry”, Frontiers in
+>    Machine Learning and Artificial Intelligence (2021)
+>    <a href="/PDF/frai-04-668163.pdf" target="_blank">**PDF**</a>
+
+> 4. Lukmanov R. A., de Koning C., Schmidt P. K., Wacey D., Ligterink N. F.W.,
+>    Gruchola S., Grimaudo V., Neubeck A., Riedo A., Tulej M., and Peter Wurz,
+>    “High-Resolution fs-LIMS 3D imaging and manifold learning reveal insight
+>    into chemical diversity of the Gunflint chert (1.88 Ga)”, Frontiers in
+>    Astrobiology, (2021), submitted.
+> 5. Lukmanov R. A., Tulej M., and Peter Wurz, “Aufspüren extraterrestrischer
+>    Lebenszeichen im Sonnensystem mittels lasergestützter
+>    Massenspektrometrie”, VetsuisseNews, (2021)
+> 6. Ligterink, N.F., Grimaudo, V., Moreno-García, P., Lukmanov, R., Tulej, M., Leya,
+>    I., Lindner, R., Wurz, P., Cockell, C.S., Ehrenfreund, P. and Riedo, A., 2020.
+>    ORIGIN: a novel and compact Laser Desorption–Mass Spectrometry system
+>    for sensitive in situ detection of amino acids on extraterrestrial surfaces.
+>    Scientific reports, 10(1), pp.1-10.
+> 7. Wiesendanger, R., Grimaudo, V., Tulej, M., Riedo, A., Lukmanov, R., Ligterink,
+>    N., Fausch, R., Shea, H. and Wurz, P., 2019. The LMS-GT instrument–a new
+>    perspective for quantification with the LIMS-TOF measurement technique.
+>    Journal of analytical atomic spectrometry, 34(10), pp.2061-2073.
+> 8. Grimaudo, V., Tulej, M., Riedo, A., Lukmanov, R., Ligterink, N.F., de Koning, C.
+>    and Wurz, P., 2020. UV post-ionization laser ablation ionization mass
+>    spectrometry for improved nm-depth profiling resolution on Cr/Ni reference
+>    standard. Rapid communications in mass spectrometry, 34(14), p.e8803.
+> 9. Riedo, A., Lukmanov, R., Grimaudo, V., de Koning, C., Ligterink, N.F., Tulej, M.
+>    and Wurz, P., 2021. Improved plasma stoichiometry recorded by LIMS by
+>    using a double-pulse femtosecond laser ablation ion source. Rapid
+>    Communications in Mass Spectrometry, p.e9094.
+> 10. Tulej, M., Neubeck, A., Riedo, A., Lukmanov, R., Grimaudo, V., Ligterink, N.F., Ivarsson, M., Bach, W., de Koning, C. and Wurz, P., 2020. Isotope abundance ratio measurements using femtosecond laser ablation ionization mass spectrometry. Journal of Mass Spectrometry, 55(12), p.e4660.
+
 11. Cedeño López, A., Grimaudo, V., Riedo, A., Tulej, M., Wiesendanger, R.,
     Lukmanov, R., Moreno-Garcia, P., Lortscher, E., Wurz, P. and Broekmann, P.,2019
 12. Three-Dimensional Composition Analysis of SnAg Solder Bumps Using
@@ -91,7 +124,12 @@ weight: 1
     spectrometry," proceedings of the 52nd Lunar and Planetary Science
     Conference, 15-19 March 2021, (2021), LPSC Abstract Nr. 1940.
 21. Riedo A., Grimaudo V., Aerts J., Lukmanov R., Tulej M., Broekmann P., Lindner
+
     R., Wurz P., and Ehrenfreund P., “Laser Ablation Ionization Mass
     Spectrometry: A space prototype system for in situ Sulphur isotope
     fractionation analysis on planetary surfaces”, Front. Astron. Space Sci. –
     Astrobiology.
+
+```
+
+```

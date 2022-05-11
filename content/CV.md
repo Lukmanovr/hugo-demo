@@ -47,11 +47,13 @@ You can download this page as a PDF [**here**](cv.pdf)
   Thesis – “Local spectroscopic studies of the Iron oxidation state in mantle spinels”
 - 2011 – 2015, BSc in Geology and Geophysics - Saint Petersburg State University, Russia
   Thesis – “High-frequency seismic tomography for railway bridge construction across Tuloma river”
+- 2007 – 2011, Technician in Development and operation of oil and gas fields - Neftekamsk Oil College, Neftekams, Russia
+  Thesis – “High-frequency seismic tomography for railway bridge construction across Tuloma river”
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-- Python/ Matlab / Mathematica
-- Photoshop/ InDesingn/ Illustrator/ CorelDraw
+- Python/ Matlab / Front-end stack (JavaScript, CSS, HTML)
+- Photoshop/ InDesign/ Illustrator/ CorelDraw
 - Office/ Origin
 
 #### LANGUAGE SKILLS
