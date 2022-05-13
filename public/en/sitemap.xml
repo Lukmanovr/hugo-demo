@@ -7,26 +7,13 @@
     <loc>https://adorable-biscuit-3b82eb.netlify.app/blog/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/categories/</loc>
-    <lastmod>2021-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://adorable-biscuit-3b82eb.netlify.app/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adorable-biscuit-3b82eb.netlify.app/categories/"
-                />
-  </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/css/</loc>
-    <lastmod>2021-09-15T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/blog/first/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/html/</loc>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/music/</loc>
+    <lastmod>2021-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/playlist/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/</loc>
@@ -55,8 +42,11 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/tags/"
                 />
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/categories/tech/</loc>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/yandex/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/about/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/about/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
@@ -72,9 +62,23 @@
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/archives/</loc>
   </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://adorable-biscuit-3b82eb.netlify.app/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adorable-biscuit-3b82eb.netlify.app/categories/"
+                />
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/contact/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/cv/</loc>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/papers/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/russian.md/</loc>
   </url><url>

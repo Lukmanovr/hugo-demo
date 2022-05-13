@@ -17,7 +17,7 @@ tags:
 
 ### My Yandex Music playlist
 
-<iframe frameborder="0" style="border:none;width:100%;height:450px;" width="100%" height="450" src="https://music.yandex.ru/iframe/#playlist/rustamlukmanov256/3">Слушайте <a href='https://music.yandex.ru/users/rustamlukmanov256/playlists/3'>Мне нравится</a> — <a href='https://music.yandex.ru/users/rustamlukmanov256'>Rustam Lukmanov</a> на Яндекс.Музыке</iframe>
+<iframe frameborder="0" style="border:none;width:100%;height:750px;" width="100%" height="450" src="https://music.yandex.ru/iframe/#playlist/rustamlukmanov256/3">Слушайте <a href='https://music.yandex.ru/users/rustamlukmanov256/playlists/3'>Мне нравится</a> — <a href='https://music.yandex.ru/users/rustamlukmanov256'>Rustam Lukmanov</a> на Яндекс.Музыке</iframe>
 
 <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
         <script type="text/javascript">/**

@@ -5,7 +5,7 @@ url: "/publications/"
 summary: publications
 draft: false
 weight: 1
-tags: ["Secons"]
+tags: ["Papers"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -36,6 +36,8 @@ editPost:
 ---
 
 ---
+
+<img src='/images/circle.jpg' alt='Girl in a jacket'>
 
 1.  **Lukmanov, R.A.**, Tulej, M., Wiesendanger, R., Riedo, A., Grimaudo, V., Ligterink, N.F., de Koning, C., Neubeck, A., Wacey, D. and Wurz, P., 2022. Multiwavelength Ablation/Ionization and Mass Spectrometric Analysis of 1.88 Ga Gunflint Chert. Astrobiology, 22(4), pp.369-386.
 

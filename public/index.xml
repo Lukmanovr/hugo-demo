@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rustam A. Lukmanov</title>
+    <title>R. A. Lukmanov</title>
     <link>https://adorable-biscuit-3b82eb.netlify.app/</link>
-    <description>Recent content on Rustam A. Lukmanov</description>
+    <description>Recent content on R. A. Lukmanov</description>
     <image>
       <url>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -20,13 +20,12 @@
     </item>
     
     <item>
-      <title>Going live</title>
+      <title>Going live with My Yandex music playlist</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/blog/first/</link>
       <pubDate>Wed, 15 Sep 2021 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/blog/first/</guid>
-      <description>fsdf asda asda
-fsdfs</description>
+      <description>My Yandex Music playlist Слушайте Мне нравится — Rustam Lukmanov на Яндекс.Музыке window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};/*** plotly.js v2.9.0* Copyright 2012-2022, Plotly, Inc.* All rights reserved.* Licensed under the MIT license*/!function(t){if(&#34;object&#34;==typeof exports&amp;&amp;&#34;undefined&#34;!=typeof module)module.exports=t();else if(&#34;function&#34;==typeof define&amp;&amp;define.amd)define([],t);else{(&#34;undefined&#34;!=typeof window?window:&#34;undefined&#34;!=typeof global?global:&#34;undefined&#34;!=typeof self?self:this).Plotly=t()}}((function(){return function t(e,r,n){function i(o,s){if(!r[o]){if(!e[o]){var l=&#34;function&#34;==typeof require&amp;&amp;require;if(!s&amp;&amp;l)return l(o,!0);if(a)return a(o,!0);var c=new Error(&#34;Cannot find module &#39;&#34;+o+&#34;&#39;&#34;);throw c.code=&#34;MODULE_NOT_FOUND&#34;,c}var u=r[o]={exports:{}};e[o][0].call(u.exports,(function(t){return i(e[o][1][t]||t)}),u,u.exports,t,e,r,n)}return r[o].exports}for(var a=&#34;function&#34;==typeof require&amp;&amp;require,o=0;o:not(.watermark)&#34;:&#34;opacity:0;-webkit-transition:opacity .3s ease 0s;-moz-transition:opacity .3s ease 0s;-ms-transition:opacity .3s ease 0s;-o-transition:opacity .</description>
     </item>
     
     <item>
@@ -53,7 +52,7 @@ fsdfs</description>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/blog/third-post/</guid>
-      <description>Hello     particlesJS(&#34;particles-js&#34;, {&#34;particles&#34;:{&#34;number&#34;:{&#34;value&#34;:80,&#34;density&#34;:{&#34;enable&#34;:true,&#34;value_area&#34;:800}},&#34;color&#34;:{&#34;value&#34;:&#34;#000000&#34;},&#34;shape&#34;:{&#34;type&#34;:&#34;circle&#34;,&#34;stroke&#34;:{&#34;width&#34;:0,&#34;color&#34;:&#34;#000000&#34;},&#34;polygon&#34;:{&#34;nb_sides&#34;:5},&#34;image&#34;:{&#34;src&#34;:&#34;img/github.svg&#34;,&#34;width&#34;:100,&#34;height&#34;:100}},&#34;opacity&#34;:{&#34;value&#34;:0.5,&#34;random&#34;:false,&#34;anim&#34;:{&#34;enable&#34;:false,&#34;speed&#34;:1,&#34;opacity_min&#34;:0.1,&#34;sync&#34;:false}},&#34;size&#34;:{&#34;value&#34;:3,&#34;random&#34;:true,&#34;anim&#34;:{&#34;enable&#34;:false}},&#34;line_linked&#34;:{&#34;enable&#34;:true,&#34;distance&#34;:150,&#34;color&#34;:&#34;#000000&#34;,&#34;opacity&#34;:0.4,&#34;width&#34;:1},&#34;move&#34;:{&#34;enable&#34;:false}},&#34;retina_detect&#34;:true});</description>
+      <description>Hello   </description>
     </item>
     
     

@@ -3,6 +3,9 @@
 
 <head>
     {{- partial "head.html" . }}
+    
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.0/lib/p5.js"></script> <!-- load p5.js from CDN-->
+    <script src = "/js/particles.js"></script> <!-- this will pick our script  -->
     <meta name="yandex-verification" content="68f184f8590ddca8" />
 </head>
 
@@ -15,8 +18,10 @@
 {{- end -}}
 " id="top">
     {{- partialCached "header.html" . .Page -}}
+    
     <main class="main">
         {{- block "main" . }}{{ end }}
+
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
