@@ -25,6 +25,9 @@ You can download this page as a PDF [**here**](cv.pdf)
 
 #### EMPLOYMENT HISTORY
 
+> - 2021 – 2022, Postdoc, Physics Institute, University of Bern, Switzerland.
+>   Mass spectrometric investigation and la la .
+
 > - 2017 – 2021, Teaching Associate, Physics Institute, University of Bern, Switzerland.
 >   Teaching laboratory classes (seminars) on introductory physics.
 

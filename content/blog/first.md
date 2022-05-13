@@ -3,9 +3,12 @@ title: "Going live with My Yandex music playlist"
 date: 2021-09-15T11:30:03+00:00
 draft: false
 cover:
-  image: "images/live.png"
+  image: "images/yandex-music.jpg"
+  imageWidth: 120 # custom size
+  imageHeight: 120 # custom size
   alt: "This is my picture"
   caption: "Tune in!"
+showToc: false
 tags:
   [
     "Playlist",
