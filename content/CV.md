@@ -39,7 +39,7 @@ You can download this page as a PDF [**here**](cv.pdf)
 
 #### EDUCATION
 
-- 2022 – now, Web Development – Yandex Practicum online courses (10 months)
+- 2022 – now, [Web Developer](https://practicum.yandex.ru/web/) – Yandex Practicum online courses (10 months)
 - 2021 – 2021, Innosuisse Startup Training – Business Concept, University of Bern, Switzerland
 - 2017 – 2021, **PhD in Physics, University of Bern, Switzerland**.
   Thesis – “Characterisation of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”.
