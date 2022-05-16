@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae \U0001F454"
+title: "CV \U0001F454"
 layout: "CV"
 url: "/cv/"
 summary: CV

@@ -279,9 +279,9 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Blog
-      name: Blog 
-      url: /blog/
+    - identifier: Posts
+      name: Posts 
+      url: /posts/
       weight: 10
     - identifier: Tags
       name: Tags
