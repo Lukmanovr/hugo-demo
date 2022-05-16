@@ -43,9 +43,9 @@ languages:
     homeInfoParams:
         Title: ""
         Content: "
-        <img src='/images/circle_ru_sh2.png' alt='Girl in a jacket' width='400' 
-                                align='middle'>
-<h1>Обо мне</h1>  <br>                                
+        <a href= /cv/><img src='/images/logo_BAR_RU.png' alt='Girl in a jacket' width='800' 
+                                align='middle'></a>
+  <br>                                
 Я <b>ученый-исследователь</b> в области экспериментальной физики и аналитической химиии. Основной фокус моих интересов лежит 
 в масштабируемых методах анализа данных на графах и обучении на графах без учителя применительно к методам современной аналитической химии (фемтосекундная масс-спеткрометрия, спектроскопия).    
 В настоящее время погружаюсь/исследую мир предпринимательства.   
@@ -142,15 +142,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/circle3.png"
-    favicon16x16: "/circle3.png"
-    favicon32x32: "/circle3.png"
-    apple_touch_icon: "/circle3.png"
-    safari_pinned_tab: "/circle3.png"
+    favicon: "/circle4.png"
+    favicon16x16: "/circle4.png"
+    favicon32x32: "/circle4.png"
+    apple_touch_icon: "/circle4.png"
+    safari_pinned_tab: "/circle4.png"
 
   label:
-    text: "| R.A. Lukmanov "
-    icon: /circle.png
+    text: " "
+    icon: /circle_italic.png
     iconHeight: 35
 
   # profile-mode
@@ -186,12 +186,12 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
         url: cv
       - name: Contact Information
         url: contact
-  # home-info mode
+  # home-info mode <img src='/images/circle_en_sh2.png' alt='Girl in a jacket' width='400' align='middle'>
   homeInfoParams:
-    Title: " [](/cv/)"
-    Content: "  <img src='/images/circle_en_sh3.png' alt='Girl in a jacket' width='400' 
-                                align='middle'>
-    <h1>About me 👨‍🔬</h1>  
+    Title: ""
+    Content: " <a href= /cv/><img src='/images/logo_BAR.png' alt='Girl in a jacket' width='800' align='middle'></a>
+    
+    <h1></h1>  
     <br>                            
     I am a <b>Research Scientist</b> interested in scalable, unsupervised methods for construction and analysis of graph data. Most of my focus lies in the intersection of analytical chemistry and graph-theoretic data processing. Currently, dabbling in the world of entrepreneurship
     </p>
@@ -205,7 +205,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   
       I received a <b>Ph.D.</b> \U0001f393 in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Maker Tulej</u>](http://www.marek-tulej.ch/). 
         
-      The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
+  The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
         
         Considerable part of my research is about creating graph-structured objects from chemical/sensor data and efficient mining of the structural organization of such objects. More broadly my reaserch devoted to bridging the hardware (signal generation) and software (signal processing) development for **fast** and **efficient** insight retrieval from analytical setups.  I did my master's and bachelor's in Geophysics at [<u>Saint Petersburg State University</u>](https://english.spbu.ru/) in Saint Petersburg, Russia.  
    <p>
@@ -233,7 +233,13 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
 
       Sometimes, I write here about random things, check it out below:  
       
-      > - [**Archive** 🗃️](/archives/)"
+      > - [**Archive** 🗃️](/archives/)  
+    
+  
+
+
+<a href= /contact/><img src='/images/contact_BAR.png' alt='Girl in a jacket' width='500' align='left'></a>
+"
   #socialIcons:
   #  - name: twitter
   #    url: "https://twitter.com/"
@@ -275,7 +281,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
 menu:
   main:
     - identifier: Blog
-      name: Blog
+      name: Blog 
       url: /blog/
       weight: 10
     - identifier: Tags
