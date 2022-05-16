@@ -189,7 +189,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   # home-info mode <img src='/images/circle_en_sh2.png' alt='Girl in a jacket' width='400' align='middle'>
   homeInfoParams:
     Title: ""
-    Content: " <a href= /cv/><img src='/images/logo_BAR.png' alt='Girl in a jacket' width='800' align='middle'></a>
+    Content: "<a href= /cv/><img src='/images/logo_BAR_short.png' alt='Girl in a jacket' width='300' align='left'></a>
     
     <h1></h1>  
     <br>                            
@@ -222,8 +222,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
         
       > - [**Publications** 📝](/publications/)  
 
-      > - [**Contact me** 📧](/contact/)
-  
+       
         
       
       You can also follow me on social media:
@@ -238,7 +237,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   
 
 
-<a href= /contact/><img src='/images/contact_BAR.png' alt='Girl in a jacket' width='500' align='left'></a>
+<a href= /contact/><img src='/images/contact_BAR.png' alt='Girl in a jacket' width='200' align='left'></a>
 "
   #socialIcons:
   #  - name: twitter
