@@ -290,16 +290,20 @@ menu:
     - identifier: Publications
       name: Publications
       url: /publications/
-      weight: 30
+      weight: 40
     - identifier: CV
       name: CV
       url: /CV/
-      weight: 40
+      weight: 50
     - identifier: Contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 60
     - identifier: Search
       name: Search
       url: /search/
-      weight: 60
+      weight: 70
+    - identifier: Archive
+      name: Archive
+      url: /archives/
+      weight: 30

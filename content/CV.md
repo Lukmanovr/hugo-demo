@@ -61,9 +61,10 @@ You can download this page as a PDF [**here**](cv.pdf)
 
 #### LANGUAGE SKILLS
 
-- Russian - Mother tongue
+- Tatar - Mother tongue
+- Russian - Native
 - English – Fluent
-- German - Beginner
+- German - B1
 
 #### INTERESTS
 

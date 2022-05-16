@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Demo for Hugo</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Demo for Hugo</description>
+    <title>Posts on R. A. Lukmanov</title>
+    <link>https://adorable-biscuit-3b82eb.netlify.app/posts/</link>
+    <description>Recent content in Posts on R. A. Lukmanov</description>
+    <image>
+      <url>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 May 2022 13:50:24 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Sep 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit-3b82eb.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>/posts/first/</link>
-      <pubDate>Mon, 02 May 2022 13:50:24 +0300</pubDate>
+      <title>My Yandex music playlist</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/first/</link>
+      <pubDate>Wed, 15 Sep 2021 11:30:03 +0000</pubDate>
       
-      <guid>/posts/first/</guid>
-      <description>This is a heading one This is a heading 2 This is a heading 3 This is a paragraph</description>
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/first/</guid>
+      <description>Different vibes for work/chilling and sports. While exploring my website, consider tuning into my playlist on Ya.Music. Unfortunately, only people from CIS countries are able to see the full playlist due to limited distribution rights.
+I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurried vibes, are best for being in the &amp;ldquo;flow&amp;rdquo; be it you doing sports or squeezing thoughts onto the paper. The Parra For Cuva (Nicolas Demuth) also provides a warm and melancholic mood for falling into yet another rabbit hole.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/posts/second/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>My 2st post</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/second/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/posts/second/</guid>
-      <description></description>
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/second/</guid>
+      <description>Still figuring it out</description>
     </item>
+    
+    <item>
+      <title>D3.js bars</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/third-post/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/third-post/</guid>
+      <description>Hello   </description>
+    </item>
+    
     
   </channel>
 </rss>

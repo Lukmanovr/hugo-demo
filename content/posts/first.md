@@ -1,11 +1,11 @@
 ---
-title: "Going live with My Yandex music playlist"
+title: "My Yandex music playlist"
 date: 2021-09-15T11:30:03+00:00
-draft: false
+draft: true
 cover:
-  image: "images/yandex-music.jpg"
-  imageWidth: 120 # custom size
-  imageHeight: 120 # custom size
+  image: ""
+  imageWidth: 90 # custom size
+  imageHeight: 90 # custom size
   alt: "This is my picture"
   caption: "Tune in!"
 showToc: false
@@ -18,7 +18,7 @@ tags:
   #{{< figure align=center src="/images/live.png" >}} // shortcode to add figure
 ---
 
-### My Yandex Music playlist
+### Different vibes for work/chilling and sports.
 
 While exploring my website, consider tuning into my playlist on [**Ya.Music**](https://music.yandex.ru/).
 Unfortunately, only people from CIS countries are able to see the full playlist due to limited distribution rights.
