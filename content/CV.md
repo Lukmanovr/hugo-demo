@@ -27,11 +27,11 @@ cover:
 
 You can download this page as a PDF [**here**](cv.pdf)
 
-> **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
-
 #### ABOUT
 
-I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [Pricniples You](https://principlesyou.com/). Developing an entrepreneurial skills/ideas. Have an open-minded approach to life and positive attitude towards future.
+> **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
+
+I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Developing an entrepreneurial skills/ideas. Have an open-minded approach to life and positive attitude towards future.
 
 #### CONTACT INFORMATION
 
@@ -40,12 +40,12 @@ Feel free to contact me:
 
 #### EMPLOYMENT HISTORY
 
-- Sep.2021 – Dec.2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based [fs-LIMS (review article about LIMS technology)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669) instruments.
+- September 2021 – December 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based [fs-LIMS (review article about LIMS technology)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669) instruments.
 
-- Sep.2017 – Aug.2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
+- September 2017 – August 2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
   Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
 
-- Jun.2015 – Aug.2017, **Engineer Geophysicist**, Russian Geological Research Institute ([VSEGEI](https://vsegei.ru/en/)), Saint Petersburg, Russia.
+- June 2015 – August 2017, **Engineer Geophysicist**, Russian Geological Research Institute ([VSEGEI](https://vsegei.ru/en/)), Saint Petersburg, Russia.
   Multiplexing regional geophysical data for the construction of updated geological maps. 3D reconstructions from archived seismic data (regional level - thousands of sq.km), interpretation of seismic, magnetic, and gamma-ray data.
 
 - June 2014 – August 2014, **Field Geophysicist**, Seismoshelf, Saint-Petersburg, Russia.
@@ -70,8 +70,8 @@ Feel free to contact me:
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas, KeplerMapper, UMAP) / Front-end stack (JavaScript, CSS, HTML). Data handling skills 
-- Adobe Photoshop/ InDesign/ Illustrator. However, prefer CorelDraw/InkScape/Affinity
+> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with tuning the signal acquisition, preprocessing, processing, and analysis. 
+- Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
 - Microsoft Office and all the likes (chuckles). For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
 
 #### LANGUAGE SKILLS

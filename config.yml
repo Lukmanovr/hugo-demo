@@ -279,31 +279,35 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: Home
+      name: Home 
+      url: //
+      weight: 10
     - identifier: Posts
       name: Posts 
       url: /posts/
-      weight: 10
+      weight: 20
     - identifier: Tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 30
     - identifier: Publications
       name: Publications
       url: /publications/
-      weight: 40
+      weight: 50
     - identifier: CV
       name: CV
       url: /CV/
-      weight: 50
+      weight: 60
     - identifier: Contact
       name: Contact
       url: /contact/
-      weight: 60
+      weight: 70
     - identifier: Search
       name: Search
       url: /search/
-      weight: 70
+      weight: 80
     - identifier: Archive
       name: Archive
       url: /archives/
-      weight: 30
+      weight: 40
