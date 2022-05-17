@@ -70,7 +70,7 @@ Feel free to contact me:
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-- Scientific Python and Matlab / Front-end stack (JavaScript, CSS, HTML)
+> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas, KeplerMapper, UMAP) / Front-end stack (JavaScript, CSS, HTML). Data handling skills 
 - Adobe Photoshop/ InDesign/ Illustrator. However, prefer CorelDraw/InkScape/Affinity
 - Microsoft Office and all the likes (chuckles). For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
 
