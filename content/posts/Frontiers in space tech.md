@@ -1,5 +1,5 @@
 ---
-title: "High Mass Resolution fs-LIMS Imaging and Manifold Learning Reveal Insight Into Chemical Diversity of the 1.88 Ga Gunflint Chert"
+title: "High Mass Resolution fs-LIMS Imaging and Manifold Learning"
 date: 2022-05-03T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -33,4 +33,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+I am please to announce that our paper on manifold learning on spectral data is published in Frontiers in Space Technologies. In this paper we address a problem of dealing with massive datasets. In our particular case it was 100k mass spectra, collected from the Precambrian chert sample.
 Extraction of useful information from unstructured, large and complex mass spectrometric signals is a challenge in many application fields of mass spectrometry. Therefore, new data analysis approaches are required to help uncover the complexity of such signals. In this contribution, we examined the chemical composition of the 1.88 Ga Gunflint chert using the newly developed high mass resolution laser ionization mass spectrometer (fs-LIMS-GT). We report results on the following: 1) mass-spectrometric multi-element imaging of the Gunflint chert sample; and 2) identification of multiple chemical entities from spatial mass spectrometric data utilizing nonlinear dimensionality reduction and spectral similarity networks. The analysis of 40′000 mass spectra reveals the presence of chemical heterogeneity (seven minor compounds) and two large clusters of spectra registered from the organic material and inorganic host mineral. Our results show the utility of fs-LIMS imaging in combination with manifold learning methods in studying chemically diverse samples.
+
+<script>
+    alert("Script loaded!");
+</script>
+<div id="particles"></div>
