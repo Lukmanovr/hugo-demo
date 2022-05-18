@@ -90,7 +90,7 @@ buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-3EMDQYRZC3
 
 outputs:
     home:
