@@ -189,10 +189,11 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   # home-info mode <img src='/images/circle_en_sh2.png' alt='Girl in a jacket' width='400' align='middle'>
   homeInfoParams:
     Title: ""
-    Content: "<a href= /cv/><img src='/images/logo_BAR_short.png' alt='Girl in a jacket' width='300' align='left'></a>
-    
-    <h1></h1>  
-    <br>                            
+    Content: "<a href= /cv/><img src='/images/logo_BAR_short.png' alt='Girl in a jacket' width='300' align='left'></a>   
+    <p>  
+    <br/>
+</p>
+
     I am a <b>Research Scientist</b> interested in scalable, unsupervised methods for construction and analysis of graph data. Most of my focus lies in the intersection of analytical chemistry and graph-theoretic data processing. Currently, dabbling in the world of entrepreneurship
     </p>
     <br/>
@@ -203,7 +204,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
 
   
   
-      I received a <b>Ph.D.</b> \U0001f393 in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Maker Tulej</u>](http://www.marek-tulej.ch/). 
+      I received a Ph.D. in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Maker Tulej</u>](http://www.marek-tulej.ch/). 
         
   The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
         
@@ -213,27 +214,29 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
    </p>   
                
 
-      For publications, see [**Google Scholar**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) or my [**LOOP**](https://loop.frontiersin.org/people/1234341/overview) profile. For code, see GitHub.
+      For publications, see [**Google Scholar**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) or my [**LOOP**](https://loop.frontiersin.org/people/1234341/overview) profile. For code, see [**GitHub**](https://github.com/Lukmanovr).
 
       Feel free to contact me through links attached below.
 
       
-      > - [**Curriculum Vitae** 👔](/cv/)  
+      > - [**Curriculum Vitae**](/cv/)  
         
-      > - [**Publications** 📝](/publications/)  
-
+      > - [**Publications**](/publications/)  
+    
        
-        
       
       You can also follow me on social media:
         
-      > - [**Instagram** 📷](https://www.instagram.com/lukmanovr/)/[**Twitter** 🐦](/archives/) / [**LinkedIn** 🧑‍💼](https://www.linkedin.com/in/rustam-lukmanov-604695100/) / [**Telegram** ☎️](https://t.me/lukmanovr)
+      > - [**Instagram**](https://www.instagram.com/lukmanovr/) / [**Twitter**](/archives/) / [**LinkedIn**](https://www.linkedin.com/in/rustam-lukmanov-604695100/) / [**Telegram**](https://t.me/lukmanovr)
         
 
       Sometimes, I write here about things I find interesting, check it out below:  
       
-      > - [**Archive** 🗃️](/archives/)  
-    
+      > - [**Posts**](/posts/)
+      
+      > - [**Archive**](/archives/) 
+       
+      
   
 
 
