@@ -41,7 +41,7 @@ editPost:
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-<article class="animate__animated animate__fadeIn animate__slower	3s">
+<article class="animate__animated animate__fadeIn animate__slow	2s">
 
 1.  Schwander, L., Ligterink, N.F.W., Kipfer, K.A., **Lukmanov, R.A.**, Grimaudo, V., Tulej, M., De Koning, C.P., Keresztes Schmidt, P., Gruchola, S.N., Boeren, N.J. and Ehrenfreund, P., Correlation network analysis for amino acid identification in soil samples with the ORIGIN space-prototype instrument. Frontiers in Astronomy and Space Sciences, p.106. (2022), <a href="https://www.frontiersin.org/articles/10.3389/fspas.2022.909193/full" target="_blank">**Provisionally Accepted**</a>
 

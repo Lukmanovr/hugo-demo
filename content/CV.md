@@ -25,6 +25,12 @@ cover:
   Text: "Suggest Changes" # edit text"
 ---
 
+<link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+<article class="animate__animated animate__fadeIn animate__slower	3s">
+
 You can download this page as a PDF [**here**](cv.pdf)
 
 #### ABOUT
@@ -70,7 +76,8 @@ Feel free to contact me:
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with tuning the signal acquisition, preprocessing, processing, and analysis. 
+> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with tuning the signal acquisition, preprocessing, processing, and analysis.
+
 - Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
 - Microsoft Office and all the likes (chuckles). For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
 
@@ -86,3 +93,5 @@ Feel free to contact me:
 - Running / Hiking / Exploring places
 - Design / Reading / Generative coding
 - Recently started reading on longevity
+
+</article>
