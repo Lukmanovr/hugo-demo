@@ -1,7 +1,7 @@
 ---
-title: "Publications &#128221 "
+title: "Мои публикации &#128221 "
 layout: "publications"
-url: "/publications/"
+url: "/ru/publications"
 summary: publications
 draft: false
 weight: 1
@@ -21,7 +21,7 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
     image: images/circle.png # image path/url
