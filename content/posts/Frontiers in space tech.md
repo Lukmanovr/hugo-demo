@@ -28,20 +28,19 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "mailto:mail@rustam-lukmanov.ru"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/UMAP_network.png' alt='Journal cover image' width='390' height='500' padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/UMAP_network.png' alt='Journal cover image' width='420' height='550' padding ='50' align='middle' style="border:3px solid grey"></a>
 
-### Paper / PDF
+### [Paper](https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full) / [PDF](/PDF/frspt-03-718943.pdf)
 
 ### TL;DR
 
-In this paper we present
+In this paper we present:
 
 - a graph-based end-to-end analysis methods to make sense of large mass spectrometric datasets.
-- mass-spectrometric multi-element imaging of the Gunflint chert sample (2 billions years old);
-- identification of multiple chemical entities from spatial mass spectrometric data utilizing spectral similarity networks.
-- the analysis of 40′000 mass spectra reveals the presence of chemical heterogeneity (seven minor compounds) and two large clusters of spectra registered from the organic material and inorganic host mineral.
+- mass-spectrometric multi-element imaging of the Gunflint chert (2 billions years old) sample;
+- the unsupervised analysis of 40′000 mass spectra reveals the presence of seven minor compounds and two large clusters of spectra registered from the organic material and inorganic host mineral.
