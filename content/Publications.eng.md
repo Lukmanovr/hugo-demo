@@ -44,7 +44,7 @@ editPost:
 
 <a  href= https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e><img src='/images/Jaas_cover.png' alt='Journal cover image' width='500' align='middle' style="border:3px solid grey"></a> <em>JAAS Journal Cover - fs-LIMS mass spectrometer. Click on the image to access the contribution</em>
 
-1.  Schwander, L., Ligterink, N.F.W., Kipfer, K.A., **Lukmanov, R.A.**, Grimaudo, V., Tulej, M., De Koning, C.P., Keresztes Schmidt, P., Gruchola, S.N., Boeren, N.J. and Ehrenfreund, P., Correlation network analysis for amino acid identification in soil samples with the ORIGIN space-prototype instrument. Frontiers in Astronomy and Space Sciences, p.106. (2022), <a href="https://www.frontiersin.org/articles/10.3389/fspas.2022.909193/full" target="_blank">**In press**</a>
+1.  Schwander, L., Ligterink, N.F.W., Kipfer, K.A., **Lukmanov, R.A.**, Grimaudo, V., Tulej, M., De Koning, C.P., Keresztes Schmidt, P., Gruchola, S.N., Boeren, N.J. and Ehrenfreund, P., Correlation network analysis for amino acid identification in soil samples with the ORIGIN space-prototype instrument. Frontiers in Astronomy and Space Sciences, p.106. (2022), <a href="https://www.frontiersin.org/articles/10.3389/fspas.2022.909193/full" target="_blank">**Paper**</a>
 
 2.  Gruchola, S., de Koning, C.P., Wiesendanger, R., Schmidt, P.K., Riedo, A., Grimaudo, V., **Lukmanov, R.A.**, Ligterink, N.F., Tulej, M. and Wurz, P., 2022. Improved limit of detection of a high-resolution fs-LIMS instrument through mass-selective beam blanking. International Journal of Mass Spectrometry, 474, p.116803. <a href="https://www.sciencedirect.com/science/article/pii/S1387380622000082?via%3Dihub" target="_blank">**Paper**</a>
 

@@ -117,6 +117,12 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/tags/yandex/"
                 />
   </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</loc>
+    <lastmod>2021-08-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</loc>
+    <lastmod>2021-03-23T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/about/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
@@ -186,8 +192,16 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/tags/resume/"
                 />
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/russian/</loc>
-  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://adorable-biscuit-3b82eb.netlify.app/ru/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://adorable-biscuit-3b82eb.netlify.app/search/"
+                />
   </url>
 </urlset>

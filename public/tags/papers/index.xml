@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit-3b82eb.netlify.app/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications &amp;#128221 </title>
+      <title>Publications</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,12 +20,30 @@
     </item>
     
     <item>
-      <title>High Mass Resolution fs-LIMS Imaging and Manifold Learning</title>
+      <title>High Mass Resolution fs-LIMS Imaging and Manifold Learning Reveal Insight Into Chemical Diversity of the 1.88 Ga Gunflint Chert</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</link>
       <pubDate>Tue, 03 May 2022 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</guid>
-      <description>Our paper in Frontiers in Space Technologies</description>
+      <description>Our paper published in Frontiers in Space Technologies</description>
+    </item>
+    
+    <item>
+      <title>On Topological Analysis of fs-LIMS Data</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</link>
+      <pubDate>Mon, 23 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</guid>
+      <description>Our paper published in Frontiers in Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>Towards empirical bio-signatures using LIMS</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</link>
+      <pubDate>Tue, 23 Mar 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</guid>
+      <description>Our paper published in Chemometrics journal</description>
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "On Topological Analysis of fs-LIMS Data. Implications for in Situ Planetary Mass Spectrometry"
+title: "On Topological Analysis of fs-LIMS Data"
 date: 2021-08-23T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
