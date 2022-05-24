@@ -40,8 +40,9 @@ editPost:
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
-<article class="animate__animated animate__fadeIn animate__slow	2s">
+  /> <article class="animate__animated animate__fadeIn animate__slow 2s">
+
+<a  href= https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e><img src='/images/Jaas_cover.png' alt='Journal cover image' width='500' align='middle' style="border:3px solid grey"></a> JAAS Journal cover image - fs-LIMS mass spectrometer. Click on the image to access the contribution
 
 1.  Schwander, L., Ligterink, N.F.W., Kipfer, K.A., **Lukmanov, R.A.**, Grimaudo, V., Tulej, M., De Koning, C.P., Keresztes Schmidt, P., Gruchola, S.N., Boeren, N.J. and Ehrenfreund, P., Correlation network analysis for amino acid identification in soil samples with the ORIGIN space-prototype instrument. Frontiers in Astronomy and Space Sciences, p.106. (2022), <a href="https://www.frontiersin.org/articles/10.3389/fspas.2022.909193/full" target="_blank">**In press**</a>
 
@@ -109,7 +110,7 @@ editPost:
 
 23. Riedo, A., Riedo, V., Aerts, J.W., **Lukmanov, R.A.**, Tulej, M., Broekmann, P., Lindner, R., Wurz, P. and Ehrenfreund, P., 2021. Laser Ablation Ionization Mass Spectrometry: A space prototype system for in situ Sulphur isotope fractionation analysis on planetary surfaces. Frontiers in astronomy and space sciences, 8. <a href="https://boris.unibe.ch/161269/1/fspas-08-726373.pdf.pdf" target="\_blank">**PDF**</a>
 
-<h2>List of attended conferences, accomplished projects and grants</h2>
+<h2>List of attended conferences, projects and grants</h2>
 
 1. European cooperation in science and technology (COST) Action Grant – 400 EUR, 2018.
 
