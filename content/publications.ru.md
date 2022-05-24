@@ -1,19 +1,19 @@
 ---
-title: "Мои публикации &#128221 "
+title: "Мои публикации"
 layout: "publications"
 url: "/ru/publications"
 summary: publications
 draft: false
 weight: 1
 tags: ["Papers"]
-author: "Me"
+author: "Рустам А. Лукманов "
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "List of peer-reviewed publications and conference contributions"
+description: "Список моих публикаций в рецензируемых журналах, конференции и приглашенных докладов"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -30,8 +30,8 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "mail@rustam-lukmanov.ru"
-    Text: "Suggest Changes" # edit text
+    URL: "mailto:mail@rustam-lukmanov.ru"
+    Text: "mail@rustam-lukmanov.ru" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
 
@@ -42,6 +42,8 @@ editPost:
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
 <article class="animate__animated animate__fadeIn animate__slow	2s">
+
+<h3> Публикации в журналах</h3>
 
 1.  Schwander, L., Ligterink, N.F.W., Kipfer, K.A., **Lukmanov, R.A.**, Grimaudo, V., Tulej, M., De Koning, C.P., Keresztes Schmidt, P., Gruchola, S.N., Boeren, N.J. and Ehrenfreund, P., Correlation network analysis for amino acid identification in soil samples with the ORIGIN space-prototype instrument. Frontiers in Astronomy and Space Sciences, p.106. (2022), <a href="https://www.frontiersin.org/articles/10.3389/fspas.2022.909193/full" target="_blank">**Provisionally Accepted**</a>
 

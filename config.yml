@@ -1,6 +1,6 @@
 baseURL: "https://adorable-biscuit-3b82eb.netlify.app"
 title: R.A. Lukmanov
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 defaultContentLanguage: en
@@ -12,8 +12,8 @@ languages:
     weight: 2
     menu:
       main:
-          - identifier: Домой
-            name: Домой
+          - identifier: Главная
+            name: Главная
             url: //
             weight: 10
           - identifier: Посты
@@ -215,7 +215,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
 
   
   
-      I received a Ph.D. in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Maker Tulej</u>](http://www.marek-tulej.ch/). 
+      I received a Ph.D. in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Marek Tulej</u>](http://www.marek-tulej.ch/). 
         
   The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
         
