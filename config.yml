@@ -47,11 +47,11 @@ languages:
     homeInfoParams:
         Title: ""
         Content: "
-        <a href= /cv/><img src='/images/logo_BAR_short_ru.png' alt='Girl in a jacket' width='300' 
+        <a href= /ru/cv/><img src='/images/logo_BAR_short_ru_sq.png' alt='Girl in a jacket' width='300' 
                                 align='middle'></a>
   <br>                                
 Я <b><u>Ученый-Исследователь</u></b> в области экспериментальной физики и аналитической химиии. Основной фокус моих интересов лежит 
-в масштабируемых методах анализа химических данных (массовых спектров) на графах и обучении на графах без учителя применительно к методам современной аналитической химии (фемтосекундная масс-спеткрометрия, спектроскопия).    
+в масштабируемых методах анализа химических данных (спектров) на графах и обучении на графах без учителя применительно к методам современной аналитической химии (фемтосекундная масс-спеткрометрия, спектроскопия).    
 В настоящее время погружаюсь/исследую мир предпринимательства.   
   
     
@@ -61,18 +61,21 @@ languages:
 В более широком смысле мои исследования сфокусированы на разработке аппаратных и алгоритмических подходов для быстрого извлечения достоверной информации из больших, многомерных аналитических сигналов. Я получил степень магистра и бакалавра в области геофизики в Санкт-Петербургском государственном университете.
   
 
+<br>      
+<p>
 Мои публикации можно посмотреть в [**<u>Google Scholar</u>**](https://scholar.google.ch/citations?user=uJXEpcgAAAAJ&hl=en&oi=ao) или в профиле [<u>**LOOP**</u>](https://loop.frontiersin.org/people/1234341/overview).
 Не стесняйтесь связаться со мной по ссылкам, прикрепленным ниже или через контактную форму.
 
       
-      > - [**Curriculum Vitae**](/ru/cv//)  
+      > - [**Резюме**](/ru/cv//)  
         
       > - [**Публикации**](/ru/publications/)  
         
-      
+        
+               
       Я есть в социальных сетях:
         
-      > - [**Инстаграм**](https://www.instagram.com/lukmanovr/) / [**Твиттер**](/archives/) / [**ЛинкедИн**](https://www.linkedin.com/in/rustam-lukmanov-604695100/) / [**Телеграм**](https://t.me/lukmanovr)
+      > - [**Инстаграм**](https://www.instagram.com/lukmanovr/) / [**Твиттер**](/archives/) / [**Линкедин**](https://www.linkedin.com/in/rustam-lukmanov-604695100/) / [**Телеграм**](https://t.me/lukmanovr)
         
 
       Иногда, я пишу в блог (больше постов на английском):  
@@ -200,7 +203,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   # home-info mode <img src='/images/circle_en_sh2.png' alt='Girl in a jacket' width='400' align='middle'>
   homeInfoParams:
     Title: ""
-    Content: "<a href= /cv/><img src='/images/logo_BAR_short.png' alt='Girl in a jacket' width='300' align='left'></a>   
+    Content: "<a href= /cv/><img src='/images/logo_BAR_short_sq.png' alt='Girl in a jacket' width='300' align='left'></a>   
     <p>  
     <br/>
 </p>
