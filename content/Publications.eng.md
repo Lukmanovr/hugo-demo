@@ -21,7 +21,7 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
     image: images/circle.png # image path/url

@@ -5,7 +5,7 @@ url: "/ru/publications/"
 summary: publications
 draft: false
 weight: 1
-tags: ["Papers"]
+tags: ["Статьи","Публикации", "Гранты", "Конференции"]
 author: "Rustam A. Lukmanov"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -13,7 +13,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Список публикаций в рецензируемых журналах"
+description: "Список публикаций в рецензируемых журналах, конференций и проектов"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -21,7 +21,7 @@ disableHLJS: false
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
     image: images/circle.png # image path/url

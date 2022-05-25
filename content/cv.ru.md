@@ -8,15 +8,16 @@ language: ru
 tags:
   [
     "CV",
-    "Resume",
-    "Credentials",
+    "Резюме",
+    "Работа",
+    "Образование",
   ]
 author: "Рустам А. Лукманов"
 showToc: true
 TocOpen: false
 description: "Сводка о моем образовании, работе и интересах "
 ShowReadingTime: true
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
   image: images/Profile.jpg
