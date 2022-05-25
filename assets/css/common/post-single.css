@@ -1,6 +1,6 @@
 .page-header,
 .post-header {
-    margin: 24px auto var(--content-gap) auto;
+    margin:0.1%;
 }
 
 .post-title {
@@ -393,7 +393,7 @@ h6:hover .anchor {
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: 30px;
+    line-height: 20px;
     border-radius: var(--radius);
 }
 
