@@ -21,6 +21,7 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
+weight: 1
 cover:
     image: /images/Frontiers/thesis.png # image path/url
     alt: "Correlation graph from measured inclusions" # alt text

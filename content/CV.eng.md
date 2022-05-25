@@ -31,8 +31,6 @@ cover:
   />
 <article class="animate__animated animate__fadeIn animate__slower	3s">
 
-You can download this page as a PDF [**here**](cv.pdf)
-
 #### ABOUT
 
 > **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
