@@ -5,7 +5,7 @@ url: "/publications/"
 summary: publications
 draft: false
 weight: 1
-tags: ["Papers"]
+tags: ["Papers","Conferences", "Grants", "Publications"]
 author: "Rustam A. Lukmanov"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -40,7 +40,7 @@ editPost:
 <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  /> <article class="animate__animated animate__fadeIn animate__slow 2s">
+  /> <article class="animate__animated animate__fadeIn">
 
 <a  href= https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e><img src='/images/Jaas_cover.png' alt='Journal cover image' width='500' align='middle' style="border:3px solid grey"></a> <em>JAAS Journal Cover - fs-LIMS mass spectrometer. Click on the image to access the contribution</em>
 
@@ -125,7 +125,3 @@ editPost:
 9. The European Geosciences Union (EGU) General Assembly 2020, 25 to 30 April 2020, (online) Vienna.
 10. STEPS (Students and Researchers Exchange Program in Sciences) (Japan-Russia student exchange program) grant for a research project at University of Tokyo.
 </article>
-
-```
-
-```

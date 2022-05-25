@@ -20,8 +20,8 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 cover:
   image: images/Profile.jpg
-  alt: "This is my picture"
-  caption: "Hey, that's my picture!"
+  alt: "Это моя фотография!"
+  caption: "Это моя фотография!"
   URL: "mail@rustam-lukmanov.ru"
   Text: "Suggest Changes" # edit text"
 ---
@@ -32,67 +32,65 @@ cover:
   />
 <article class="animate__animated animate__fadeIn animate__slower	3s">
 
-You can download this page as a PDF [**here**](cv.pdf)
+#### Обо мне
 
-#### ABOUT
+> **Рустам А. Лукманов / 08.09.1992 / Мужчина / Гражданство – Российское**
 
-> **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
+Я считаю себя аккуратным, любопытным и легко находящим контакт человеком. У меня есть широкий опыт в области применения физико-аналитических методов а также большой кругозор в методах научных вычислений, которые как я считаю, применимы для решения большого круга задач. Мне интересен прогресс и создании вещей, нежели их потребление. Сейчас занимаюсь развитием предпринимательских навыков/идей. Непредвзято подхожу к жизни и позитивно смотрю в будущее.
 
-I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Developing an entrepreneurial skills/ideas. Have an open-minded approach to life and positive attitude towards future.
+#### Как со мной связаться?
 
-#### CONTACT INFORMATION
+Напишите мне не почту: **mail at rustam-lukmanov dot ru**, или воспользуйтесь [**контактной формой**](/contact/)
 
-Feel free to contact me:
-**mail at rustam-lukmanov dot ru**, or use the [**contact form**](/contact/)
+#### Трудовая деятельность
 
-#### EMPLOYMENT HISTORY
+- Сентябрь 2021 – Декабрь 2022, **Исследователь**, Физический Институт, Университет Берна, Швейцария. Разработка автономных методов/моделей (без учителя) для спектральной классификации химических веществ измеренных фемтосекундными лазерными масс-спектрометрами (низко и высокоразрешающие времяпролетные масс-анализаторы) [Обзорная статья по методам лазерной масс спектрометрии](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669) .
 
-- September 2021 – December 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based [fs-LIMS (review article about LIMS technology)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669) instruments.
+- Сентябрь 2017 – Август 2021, **Преподаватель**, Физический Институт, Университет Берна, Швейцария.
+  Семинарские, лабораторные занятия для студентов бакалавриата (4-6 ч/нед)
 
-- September 2017 – August 2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
-  Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
+- Июнь 2015 – Август 2017, **Инженер Геофизик**, Всероссийский научно-исследовательский геологический институт имени А. П. Карпинского ([ВСЕГЕИ](https://vsegei.ru)), Санкт-Петербург, Россия.
+  Обработка региональных геофизических данных. Построение трехмерных моделей залегания по сейсмическим данным. Комплексирование с гамма и магнитными данными.
 
-- June 2015 – August 2017, **Engineer Geophysicist**, Russian Geological Research Institute ([VSEGEI](https://vsegei.ru/en/)), Saint Petersburg, Russia.
-  Multiplexing regional geophysical data for the construction of updated geological maps. 3D reconstructions from archived seismic data (regional level - thousands of sq.km), interpretation of seismic, magnetic, and gamma-ray data.
+- Июнь 2014 – Август 2014, **Геофизик**, Сейсмошельф, Санкт-Петербург, Россия.
+  Инженерные высокочастотные сейсмические исследования на реке Тулома (Мурманск) для построения карты залегания коренных пород (под строительство железнодорожного моста). Расстановка донных сенсоров с использованием дифференциального GPS сигнала. Генерация высокочастотных колебаний на сетке сенсоров.
 
-- June 2014 – August 2014, **Field Geophysicist**, Seismoshelf, Saint-Petersburg, Russia.
-  3D seismic exploration survey conducted on the Tuloma river (Murmansk region) for the railway bridge construction. Sensor grid positioning using the differential GPS (DGPS). High-frequency seismic signal generation on the grid of ocean-bottom seismometers (OBS).
+#### Образование
 
-#### EDUCATION
+- Февраль 2022 – сейчас, [**Веб Разработка**](https://practicum.yandex.ru/web/) – курс от Яндекс Практикума по веб-разработке (фронтальная и серверная разработка).
+- Январь 2021 – Июль 2021, [**Innosuisse Курс Подготовки Стартапов**](https://www.innosuisse.ch/inno/en/home/support-for-start-ups/start-up-training.html) – Бизнес-концепт, Университет Берна, Швейцария.
+- Сентябрь 2017 – Август 2021, [**Аспирантура**](https://www.phinst.unibe.ch/index_eng.html), Университет Берна, Швейцария.
+  Кандидатская работа – “Характеризация био-органических и неорганических соединений методами лазерной масс-спектрометрии”.
+- Май 2017 – Июль 2017, **STEPS (Программа обмена между Россией и Японией)** - Университет Токио, Фотонная Фабрика (Тцукуба), Япония.
+  Исследование степени окисления железа в мантийных шпинелях при помощи характеризации ближней тонкой структуры рентгеновского поглощения (XANES), Мессбауэровской спектроскопии и электронным микрозондовым анализом.
 
-- February 2022 – now, [**Web Developer**](https://practicum.yandex.ru/web/) – Yandex Practicum courses on web development (front and back-end).
-- January 2021 – July 2021, [**Innosuisse Start-Up Training**](https://www.innosuisse.ch/inno/en/home/support-for-start-ups/start-up-training.html) – Business Concept, University of Bern, Switzerland.
-- September 2017 – August 2021, [**PhD in Physics**](https://www.phinst.unibe.ch/index_eng.html), University of Bern, Switzerland.
-  Thesis – “Characterisation of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”.
-- May 2017 – July 2017, **STEPS (Students and Researchers Exchange Program in Sciences)** - University of Tokyo, Photon Factory (PF) | KEK, Japan.
-  Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA).
-- March 2017 – May 2017, **Radiological protection in environments with ionizing radiation** - Saint Petersburg Institute of Radiological Safety (NIIRG), Russia. Training for minimization of occupational hazards.
-- September 2015 – July 2017, **MSc in Geology and Geophysics** - Saint Petersburg State University, Russia.
-  Thesis – [“Local spectroscopic studies of the Iron oxidation state in mantle spinels”](https://dspace.spbu.ru/handle/11701/11527). [**PDF**](https://dspace.spbu.ru/bitstream/11701/11527/1/Dissertaciya_Lukmanov.pdf)
-- June 2014 – July 2014, **Schlumberger Wire-line** - Tumen Training Center, Tumen, Russia. Geophysical characterization of oil and gas wells - Boot Camp.
-- September 2011 – July 2015, **BSc in Geology and Geophysics** - Saint Petersburg State University, Russia.
-  Thesis – “High-frequency seismic tomography for railway bridge construction across Tuloma river”
-- September 2007 – July 2011, **Specialist in the Development and operation of oil and gas fields** (non-university technical diploma) - Neftekamsk Oil College, Neftekams, Russia
-  Thesis – “Hydrodynamic methods for the investigation of reservoirs”
+- Март 2017 – Май 2017, **Радиологическая защита в средах с ионизирующим излучением** - Санкт-Петербургский научно-исследовательский институт радиационной гигиены имени профессора П.В. Рамзаева (НИИРГ), Санкт-Петербург, Россия. Курсы повышения квалификации.
+- Сентябрь 2015 – Июль 2017, **Магистратура (Геофизика)** - Санкт-Петербургский Государственный Университет, Россия.
+  Магистерская работа – [“Локальные спектроскопические исследования степени окисления железа в мантийных шпинелях”](https://dspace.spbu.ru/handle/11701/11527). [**PDF**](https://dspace.spbu.ru/bitstream/11701/11527/1/Dissertaciya_Lukmanov.pdf)
+- Июнь 2014 – Июль 2014, **Schlumberger Wire-line** - Тюменский центр подготовки, Тюмень, Россия. Геофизические методы исследования скважин - учебный интенсив.
+- Сентябрь 2011 – Июнь 2015, **Бакалавриат (Геофизика)** - Санкт-Петербургский Государственный Университет, Россия.
+  Дипломная работа – “Высокочастотная сейсморазведка под строительство железнодорожного моста через реку Тулому“
+- Сентябрь 2007 – Июль 2011, **Разработка нефтяных и газовых скважин** (среднее техническое образование) - Нефтекамский Нефтяной колледж, Нефтекамск, Россия.
+  Дипломная работа – “Гидродинамические методы исследования скважин”
 
-#### SOFTWARE AND PROGRAMMING SKILLS
+#### Навыки программирования
 
-> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with tuning the signal acquisition, preprocessing, processing, and analysis.
+> Научный Python и Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Фронтальная Веб разработка (JavaScript, CSS, HTML). Работа с данными - опыт работы с терабайтными массивами (масс-спектрометрия), подготовка данных, анализ статистическими методами и методами машинного обучения без учителя (матричная факторизация, графы дистанций, векторные представления пониженной размерности).
 
-- Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
-- Microsoft Office and all the likes (chuckles). For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
+- Adobe Photoshop / InDesign / Illustrator. Предпочитаю CorelDraw/InkScape/Affinity
+- Microsoft Office и все похожие пакеты. Использую Reveal.JS для презентаций, для текста - Overleaf/LaTex или Markdown (Obsidian) для форматирования малых текстов .
 
-#### LANGUAGE SKILLS
+#### Языковые навыки
 
-- Tatar - Mother tongue
-- Russian - Native
-- English – Fluent
-- German - B1
+- Татарский - Родной
+- Русский - Второй
+- Английский – Свободный
+- Немецкий - B1
 
-#### INTERESTS
+#### Интересы
 
-- Running / Hiking / Exploring places
-- Design / Reading / Generative coding
-- Recently started reading on longevity
+- Бег / Походы в горы, леса / Открывать новые места
+- Дизайн / Чтение / Генеративное программирование, программирование
+- С недавних пор узнаю много нового про долголетие
 
 </article>

@@ -11,12 +11,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 15 Sep 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit-3b82eb.netlify.app/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Мои публикации</title>
+      <title>Публикации</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/ru/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/ru/publications/</guid>
-      <description>Список моих публикаций в рецензируемых журналах, конференции и приглашенных докладов</description>
+      <description>Список публикаций в рецензируемых журналах</description>
     </item>
     
     <item>
@@ -29,6 +29,15 @@
 I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurried vibes, are best for being in the &amp;ldquo;flow&amp;rdquo; be it you doing sports or squeezing thoughts onto the paper. The Parra For Cuva (Nicolas Demuth) also provides a warm and melancholic mood for falling into yet another rabbit hole.</description>
     </item>
     
+    <item>
+      <title>Контактная информация</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</guid>
+      <description>Contact</description>
+    </item>
+    
     
     <item>
       <title>Резюме</title>
@@ -37,15 +46,6 @@ I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurr
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/ru/cv/</guid>
       <description>Сводка о моем образовании, работе и интересах </description>
-    </item>
-    
-    <item>
-      <title>Связаться со мной 📬</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</guid>
-      <description>Contact</description>
     </item>
     
   </channel>

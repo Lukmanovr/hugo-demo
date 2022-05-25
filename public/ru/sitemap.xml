@@ -155,6 +155,8 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/ru/tags/resume/"
                 />
   </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</loc>
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,7 +170,5 @@
                 />
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/cv/</loc>
-  </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/contact/</loc>
   </url>
 </urlset>

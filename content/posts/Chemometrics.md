@@ -45,3 +45,5 @@ In this paper we present:
 - mass-spectrometric multi-element imaging of the Gunflint chert (2 billions years old) sample using highly miniature space-type mass spectrometer and fs-ultraviolet laser for ion generation;
 - non-linear dimensionality reduction and classification of the fs laser ablation ionization mass spectrometry (LIMS) imaging
   dataset.
+
+This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$

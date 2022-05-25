@@ -62,6 +62,9 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/tags/"
                 />
   </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/jaas_paper/</loc>
+    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/astrobiology/</loc>
     <lastmod>2022-02-23T11:30:03+00:00</lastmod>
   </url><url>
@@ -158,6 +161,8 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/categories/"
                 />
   </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/conferences/</loc>
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/contact/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/credentials/</loc>
@@ -185,6 +190,10 @@
                 hreflang="en"
                 href="https://adorable-biscuit-3b82eb.netlify.app/tags/cv/"
                 />
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/grants/</loc>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/publications/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/resume/</loc>
     <xhtml:link
