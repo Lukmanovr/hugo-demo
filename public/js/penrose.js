@@ -2,7 +2,7 @@
 let ds;
 
 function setup() {
-    var canvas = createCanvas(20, 20);
+    var canvas = createCanvas(displayWidth, displayHeight [webgl]);
         canvas.parent('particles-holder');
       ds = new PenroseLSystem();
       //please, play around with the following line
