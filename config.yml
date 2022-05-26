@@ -164,7 +164,7 @@ params:
 
   label:
     text: " "
-    icon: /circle_italic.png
+    icon: /goose.png
     iconHeight: 35
 
   # profile-mode
