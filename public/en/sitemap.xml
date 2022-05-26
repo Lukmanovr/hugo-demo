@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</loc>
+    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/publications/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/frontiers/</loc>
@@ -56,9 +59,6 @@
     <lastmod>2022-02-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/astrobiology/</loc>
-    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</loc>
     <lastmod>2022-02-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/trying-p5/</loc>
@@ -128,11 +128,20 @@
     <loc>https://adorable-biscuit-3b82eb.netlify.app/about.eng/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/markdown/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/europa/</loc>
+    <lastmod>2020-06-30T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/second/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/mass-spectrometry/</loc>
+    <lastmod>2020-06-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/nature/</loc>
+    <lastmod>2020-06-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/origin_paper/</loc>
+    <lastmod>2020-06-30T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/scientific-reports/</loc>
+    <lastmod>2020-06-30T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/posts/third-post/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
@@ -156,16 +165,6 @@
     <loc>https://adorable-biscuit-3b82eb.netlify.app/contact/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/credentials/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://adorable-biscuit-3b82eb.netlify.app/ru/tags/credentials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adorable-biscuit-3b82eb.netlify.app/tags/credentials/"
-                />
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/cv/</loc>
   </url><url>
@@ -186,16 +185,6 @@
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/publications/</loc>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/tags/resume/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://adorable-biscuit-3b82eb.netlify.app/ru/tags/resume/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adorable-biscuit-3b82eb.netlify.app/tags/resume/"
-                />
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/search/</loc>
     <xhtml:link

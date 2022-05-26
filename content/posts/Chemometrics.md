@@ -1,5 +1,5 @@
 ---
-title: "Towards empirical bio-signatures using LIMS"
+title: "Towards empirical biosignatures using LIMS"
 date: 2021-03-23T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Our paper published in Chemometrics journal"
+description: "Our paper published in the Wiley Chemometrics journal"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -33,17 +33,18 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/image26.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370><img src='/images/Frontiers/image26.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+Ion yields measured from the three-entity inclusion extracted from the chemical depth profile. Color groupings identifies elements with high affinity (i.e., CH-rich kerogen (green) silicate chert (pink) and polymetallic group (blue)). Molecular ions loosely connected on the top-left identifies the plasma chemistry byproducts originated on the way to the detector.
 
-### [Paper](https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full) / [PDF](/PDF/frai-04-668163)
+### [Paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370) / [PDF](/PDF/Chemometrics_Lukmanov.pdf)
 
 ### TL;DR
 
 In this paper we present:
 
-- time-of-flight mass-spectra processing pipelines for higher signal-to-noise ratio extraction.
-- mass-spectrometric multi-element imaging of the Gunflint chert (2 billions years old) sample using highly miniature space-type mass spectrometer and fs-ultraviolet laser for ion generation;
-- non-linear dimensionality reduction and classification of the fs laser ablation ionization mass spectrometry (LIMS) imaging
-  dataset.
-
-This sentence uses `$` delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$
+- weighted mass correlation networks (WMCN) identified for inclusions in the bulk of the analyte material
+- sliding window centrality measure and a divergence of the modularity score on spots with more that one chemical entities present
+- kernel density estimation on ion-intensity regions for specific compounds
+- Van-Krevelen metric for organic vs. inorganic materials
+- PCA scores and loadings for chemical compounds identified in the sample
+- We performed a competitive test of 25 supervised machine learning models to achieve a 99% accuracy rates for identification of investigated materials (bio-organic Precambrian kerogen vs. inorganic host mineral)

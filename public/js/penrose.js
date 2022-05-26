@@ -3,7 +3,7 @@ let ds;
 
 function setup() {
     var canvas = createCanvas(700, 600);
-    canvas.parent('particles-holder');
+        canvas.parent('particles-holder');
       ds = new PenroseLSystem();
       //please, play around with the following line
       ds.simulate(5);

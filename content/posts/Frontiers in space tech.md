@@ -1,5 +1,5 @@
 ---
-title: "High Mass Resolution fs-LIMS Imaging and Manifold Learning Reveal Insight Into Chemical Diversity of the 1.88 Ga Gunflint Chert"
+title: "High Mass Resolution fs-LIMS Imaging and Manifold Learning"
 date: 2022-05-03T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Our paper published in Frontiers in Space Technologies"
+description: "Our publication in Frontiers in Space Technologies journal"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -33,7 +33,9 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/UMAP_network.png' alt='Journal cover image' width='420' height='550' padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/Averaged_image_degree1.png' alt='Journal cover image' width=max padding ='50' align='middle' style="border:3px solid grey"></a>
+
+Can you extract a set of distinct chemical entities from a large (over a terabyte) and highly-dimensional (360k) mass-spectrometric image using algorithmic approaches?
 
 ### [Paper](https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full) / [PDF](/PDF/frspt-03-718943.pdf)
 
@@ -41,6 +43,7 @@ editPost:
 
 In this paper we present:
 
-- a graph-based end-to-end analysis methods to make sense of large mass spectrometric datasets.
-- mass-spectrometric multi-element imaging of the Gunflint chert (2 billions years old) sample;
-- the unsupervised analysis of 40′000 mass spectra reveals the presence of seven minor compounds and two large clusters of spectra registered from the organic material and inorganic host mineral.
+- a multi-element imaging of the Gunflint chert (2 billions years old) sample;
+- the unsupervised analysis of 40′000 mass spectra, downsampled from 100'000 spectral databank, using nonlinear reduction and topological coarsening.
+- hierarchical density-based clustering on node-coordinate embeddings for quantification of chemical entities
+- mineralogical interpretation of the ionization profiles of given clusters.

@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Our paper published in Chemometrics journal"
+description: "Our contribution published in JAAS journal"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -34,14 +34,16 @@ editPost:
 ---
 
 <a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/Jaas_cover.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+Journal of Analytical Atomic Spectrometry chose our contribution as a cover-article for the issue.
 
-### [Paper](https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full) / [PDF](/PDF/frai-04-668163)
+### [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e) / [PDF](http://wurz.space.unibe.ch/Tulej_JAAS2020.pdf)
 
 ### TL;DR
 
 In this paper we present:
 
-- time-of-flight mass-spectra processing pipelines for higher signal-to-noise ratio extraction.
-- mass-spectrometric multi-element imaging of the Gunflint chert (2 billions years old) sample using highly miniature space-type mass spectrometer and fs-ultraviolet laser for ion generation;
-- non-linear dimensionality reduction and classification of the fs laser ablation ionization mass spectrometry (LIMS) imaging
-  dataset.
+- Chemical depth profiles from the highly heterogeneous media (amygdale calcium carbonate embedded in the surrounding basalt)
+- The presence of oxides and sulphides within inclusion material allows us to derive elemental abundance calibration
+  factors
+- With the RSCs corrections the quantitative analysis of more complex mineralogical phases within the inclusion is conducted by correlating atomic abundance fractions in ternary diagrams
+- Stoichiometric abundances can be reconstructed using our method

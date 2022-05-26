@@ -11,6 +11,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit-3b82eb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>PhD Thesis</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</link>
+      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</guid>
+      <description>Our paper published in Chemometrics journal</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,12 +29,12 @@
     </item>
     
     <item>
-      <title>High Mass Resolution fs-LIMS Imaging and Manifold Learning Reveal Insight Into Chemical Diversity of the 1.88 Ga Gunflint Chert</title>
+      <title>High Mass Resolution fs-LIMS Imaging and Manifold Learning</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</link>
       <pubDate>Tue, 03 May 2022 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</guid>
-      <description>Our paper published in Frontiers in Space Technologies</description>
+      <description>Our publication in Frontiers in Space Technologies journal</description>
     </item>
     
     <item>
@@ -34,7 +43,7 @@
       <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/jaas_paper/</guid>
-      <description>Our paper published in Chemometrics journal</description>
+      <description>Our contribution published in JAAS journal</description>
     </item>
     
     <item>
@@ -43,15 +52,6 @@
       <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/astrobiology/</guid>
-      <description>Our paper published in Chemometrics journal</description>
-    </item>
-    
-    <item>
-      <title>PhD Thesis</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</link>
-      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</guid>
       <description>Our paper published in Chemometrics journal</description>
     </item>
     
@@ -84,12 +84,12 @@ I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurr
     </item>
     
     <item>
-      <title>Towards empirical bio-signatures using LIMS</title>
+      <title>Towards empirical biosignatures using LIMS</title>
       <link>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</link>
       <pubDate>Tue, 23 Mar 2021 11:30:03 +0000</pubDate>
       
       <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</guid>
-      <description>Our paper published in Chemometrics journal</description>
+      <description>Our paper published in the Wiley Chemometrics journal</description>
     </item>
     
     <item>
@@ -102,12 +102,12 @@ I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurr
     </item>
     
     <item>
-      <title>My 2st post</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/second/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>ORIGIN: a novel and compact Laser Desorption – Mass Spectrometry system</title>
+      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/origin_paper/</link>
+      <pubDate>Tue, 30 Jun 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/second/</guid>
-      <description>Still figuring it out</description>
+      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/origin_paper/</guid>
+      <description>Our paper published in Nature - Scientific Reports</description>
     </item>
     
     <item>
