@@ -17,19 +17,6 @@
                 href="https://adorable-biscuit-3b82eb.netlify.app/ru/tags/music/"
                 />
   </url><url>
-    <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/posts/first/</loc>
-    <lastmod>2021-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adorable-biscuit-3b82eb.netlify.app/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://adorable-biscuit-3b82eb.netlify.app/ru/posts/first/"
-                />
-  </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/tags/playlist/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
     <xhtml:link
@@ -81,6 +68,9 @@
                 hreflang="ru"
                 href="https://adorable-biscuit-3b82eb.netlify.app/ru/tags/yandex/"
                 />
+  </url><url>
+    <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/posts/yandex/</loc>
+    <lastmod>2021-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://adorable-biscuit-3b82eb.netlify.app/ru/</loc>
     <lastmod>2021-09-15T11:30:03+00:00</lastmod>
