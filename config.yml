@@ -164,7 +164,7 @@ params:
 
   label:
     text: " "
-    icon: /goose.png
+    icon: /circle_italic.png
     iconHeight: 35
 
   # profile-mode
@@ -218,11 +218,11 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
 
   
   
-      I received a Ph.D. in experimental phyiscs at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Marek Tulej</u>](http://www.marek-tulej.ch/). 
+      I received a Ph.D. in experimental physics at the [<u>University of Bern</u>](https://www.unibe.ch/index_eng.html), advised by [<u>Prof. Peter Wurz</u>](https://www.space.unibe.ch/about_us/personen/prof_dr_wurz_peter/index_eng.html) and [<u>Dr. Marek Tulej</u>](http://www.marek-tulej.ch/). 
         
   The A. in my name stands for my patronym and it reads as Abubakirovich (Абубакирович).
         
-        Considerable part of my research is about creating graph-structured objects from chemical/sensor data and efficient mining of the structural organization of such objects. More broadly my reaserch devoted to bridging the hardware (signal generation) and software (signal processing) development for **fast** and **efficient** insight retrieval from analytical setups.  I did my master's and bachelor's in Geophysics at [<u>Saint Petersburg State University</u>](https://english.spbu.ru/) in Saint Petersburg, Russia.  
+        Considerable part of my research is about creating graph-structured objects from chemical/sensor data and efficient mining of the structural organization of such objects. More broadly my research devoted to bridging the hardware (signal generation) and software (signal processing) development for **fast** and **efficient** insight retrieval from analytical setups.  I did my master's and bachelor's in Geophysics at [<u>Saint Petersburg State University</u>](https://english.spbu.ru/) in Saint Petersburg, Russia.  
    <p>
    <br/>
    </p>   
