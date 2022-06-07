@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://adorable-biscuit-3b82eb.netlify.app/sitemap.xml
+Sitemap: https://adorable-biscuit.netlify.app/sitemap.xml

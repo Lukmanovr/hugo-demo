@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>R.A. Lukmanov</title>
-    <link>https://adorable-biscuit-3b82eb.netlify.app/</link>
+    <link>https://adorable-biscuit.netlify.app/</link>
     <description>Recent content on R.A. Lukmanov</description>
     <image>
-      <url>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://adorable-biscuit.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adorable-biscuit.netlify.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit-3b82eb.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://adorable-biscuit.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PhD Thesis</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/thesis_one/</link>
       <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/thesis_one/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/thesis_one/</guid>
       <description>My PhD thesis on characterization of compounds using laser-based mass-spectrometry</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/publications/</link>
+      <link>https://adorable-biscuit.netlify.app/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/publications/</guid>
+      <guid>https://adorable-biscuit.netlify.app/publications/</guid>
       <description>List of peer-reviewed publications and conference contributions</description>
     </item>
     
     <item>
       <title>High Mass Resolution fs-LIMS Imaging and Manifold Learning</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/frontiers-in-space-tech/</link>
       <pubDate>Tue, 03 May 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/frontiers-in-space-tech/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/frontiers-in-space-tech/</guid>
       <description>Our publication in Frontiers in Space Technologies journal</description>
     </item>
     
     <item>
       <title>Determination of the microscopic mineralogy of inclusion in an amygdaloidal pillow basalt by fs-LIMS</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/jaas_paper/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/jaas_paper/</link>
       <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/jaas_paper/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/jaas_paper/</guid>
       <description>Our contribution published in JAAS journal</description>
     </item>
     
     <item>
       <title>Multiwavelenght ablation/ionization of the 1.88 Ga Gunflint chert</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/astrobiology/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/astrobiology/</link>
       <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/astrobiology/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/astrobiology/</guid>
       <description>Our paper published in Chemometrics journal</description>
     </item>
     
     <item>
       <title>Trying a p5.js animation</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/trying-p5/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/trying-p5/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/trying-p5/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/trying-p5/</guid>
       <description>Some clever text   </description>
     </item>
     
     <item>
       <title>My Yandex music playlist</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/first/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/first/</link>
       <pubDate>Wed, 15 Sep 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/first/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/first/</guid>
       <description>Different vibes for work/chilling and sports. While exploring my website, consider tuning into my playlist on Ya.Music. Unfortunately, only people from CIS countries are able to see the full playlist due to limited distribution rights.
 I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurried vibes, are best for being in the &amp;ldquo;flow&amp;rdquo; be it you doing sports or squeezing thoughts onto the paper. The Parra For Cuva (Nicolas Demuth) also provides a warm and melancholic mood for falling into yet another rabbit hole.</description>
     </item>
     
     <item>
       <title>On Topological Analysis of fs-LIMS Data</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</link>
       <pubDate>Mon, 23 Aug 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/on-topological-analysis-of-fs-lims-data/</guid>
       <description>Our paper published in Frontiers in Artificial Intelligence</description>
     </item>
     
     <item>
       <title>Towards empirical biosignatures using LIMS</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/chemometrics/</link>
       <pubDate>Tue, 23 Mar 2021 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/chemometrics/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/chemometrics/</guid>
       <description>Our paper published in the Wiley Chemometrics journal</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/about.eng/</link>
+      <link>https://adorable-biscuit.netlify.app/about.eng/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/about.eng/</guid>
+      <guid>https://adorable-biscuit.netlify.app/about.eng/</guid>
       <description>Still figuring it out</description>
     </item>
     
     <item>
       <title>ORIGIN: a novel and compact Laser Desorption – Mass Spectrometry system</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/origin_paper/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/origin_paper/</link>
       <pubDate>Tue, 30 Jun 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/origin_paper/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/origin_paper/</guid>
       <description>Our paper published in Nature - Scientific Reports</description>
     </item>
     
     <item>
       <title>D3.js bars</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/posts/third-post/</link>
+      <link>https://adorable-biscuit.netlify.app/posts/third-post/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/posts/third-post/</guid>
+      <guid>https://adorable-biscuit.netlify.app/posts/third-post/</guid>
       <description>Hello   </description>
     </item>
     
     
     <item>
       <title>Contact 📬</title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/contact/</link>
+      <link>https://adorable-biscuit.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/contact/</guid>
+      <guid>https://adorable-biscuit.netlify.app/contact/</guid>
       <description>Contact</description>
     </item>
     
     <item>
       <title>Curriculum Vitae </title>
-      <link>https://adorable-biscuit-3b82eb.netlify.app/cv/</link>
+      <link>https://adorable-biscuit.netlify.app/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://adorable-biscuit-3b82eb.netlify.app/cv/</guid>
+      <guid>https://adorable-biscuit.netlify.app/cv/</guid>
       <description>A summary of my qualifications, education and held positions.</description>
     </item>
     
