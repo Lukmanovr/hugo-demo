@@ -35,7 +35,7 @@ cover:
 
 > **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
 
-I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Developing an entrepreneurial skills/ideas. Have an open-minded approach to life and positive attitude towards future.
+I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Have an open-minded approach to life and positive attitude towards future.
 
 #### CONTACT INFORMATION
 
@@ -50,7 +50,7 @@ Feel free to contact me:
   Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
 
 - June 2015 – August 2017, **Engineer Geophysicist**, Russian Geological Research Institute ([VSEGEI](https://vsegei.ru/en/)), Saint Petersburg, Russia.
-  Multiplexing regional geophysical data for the construction of updated geological maps. 3D reconstructions from archived seismic data (regional level - thousands of sq.km), interpretation of seismic, magnetic, and gamma-ray data.
+  Multiplexing regional geophysical data for the construction of geological maps. 3D reconstructions from archived seismic data (regional level - thousands of sq.km), interpretation of seismic, magnetic, and gamma-ray data.
 
 - June 2014 – August 2014, **Field Geophysicist**, Seismoshelf, Saint-Petersburg, Russia.
   3D seismic exploration survey conducted on the Tuloma river (Murmansk region) for the railway bridge construction. Sensor grid positioning using the differential GPS (DGPS). High-frequency seismic signal generation on the grid of ocean-bottom seismometers (OBS).
@@ -60,7 +60,7 @@ Feel free to contact me:
 - February 2022 – now, [**Web Developer**](https://practicum.yandex.ru/web/) – Yandex Practicum courses on web development (front and back-end).
 - January 2021 – July 2021, [**Innosuisse Start-Up Training**](https://www.innosuisse.ch/inno/en/home/support-for-start-ups/start-up-training.html) – Business Concept, University of Bern, Switzerland.
 - September 2017 – August 2021, [**PhD in Physics**](https://www.phinst.unibe.ch/index_eng.html), University of Bern, Switzerland.
-  Thesis – “Characterisation of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”.
+  Thesis – “Characterization of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”.
 - May 2017 – July 2017, **STEPS (Students and Researchers Exchange Program in Sciences)** - University of Tokyo, Photon Factory (PF) | KEK, Japan.
   Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA).
 - March 2017 – May 2017, **Radiological protection in environments with ionizing radiation** - Saint Petersburg Institute of Radiological Safety (NIIRG), Russia. Training for minimization of occupational hazards.
@@ -77,11 +77,11 @@ Feel free to contact me:
 > Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with the signal acquisition, preprocessing and analysis using conventional statistics and machine learning methods (matrix factorization, non-linear dimensionality reduction, manifold learning).
 
 - Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
-- Microsoft Office and all the likes (chuckles). For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
+- Microsoft Office and all the likes. For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
 
 #### LANGUAGE SKILLS
 
-- Tatar - Mother tongue
+- Tatar - Native
 - Russian - Native
 - English – Fluent
 - German - B1
@@ -89,7 +89,7 @@ Feel free to contact me:
 #### INTERESTS
 
 - Running / Hiking / Exploring places
-- Design / Reading / Generative coding
+- Design / Reading / Coding
 - Recently started reading on longevity
 
 </article>
