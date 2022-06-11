@@ -50,8 +50,8 @@ languages:
         <a href= /ru/cv/><img src='/images/logo_BAR_short_ru_sq.png' alt='Girl in a jacket' width='300' 
                                 align='middle'></a>
   <br>                                
-Я <b>исследователь</b> в области экспериментальной физики и аналитической химии. Основной фокус моих интересов лежит 
-в масштабируемых методах анализа химических данных (спектров) на графах и обучении на графах без учителя применительно к методам аналитической химии (фемтосекундная масс-спектрометрия, спектроскопия).    
+Я <b>инженер-исследователь</b> в области экспериментальной физики и машинного обучения. Основной фокус моих интересов лежит 
+в масштабируемых методах анализа сенсорных/химических данных (спектров) на графах и обучении на графах без учителя применительно к методам аналитической химии (фемтосекундная масс-спектрометрия, спектроскопия).    
    
   
     
@@ -207,7 +207,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
     <br/>
 </p>
 
-    I am a <b>Research Scientist</b> interested in scalable, unsupervised methods for construction and analysis of graph data. Most of my focus lies in the intersection of analytical chemistry, graph-theoretic data processing and machine learning. 
+    I am a <b>Research Scientist</b> interested in scalable, unsupervised/self-supervised methods for construction and analysis of graph data. Most of my focus lies in the intersection of analytical chemistry, graph-theoretic data processing and machine learning. 
     </p>
     <br/>
     <p>   

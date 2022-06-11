@@ -74,10 +74,10 @@ Feel free to contact me:
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with the signal acquisition, preprocessing and analysis using conventional statistics and machine learning methods (matrix factorization, non-linear dimensionality reduction, manifold learning).
+> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with the signal acquisition, preprocessing and analysis using conventional statistics and machine learning methods (matrix factorization, non-linear dimensionality reduction, manifold learning, NN's, GNN's, Boosting).
 
 - Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
-- Microsoft Office and all the likes. For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
+- For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
 
 #### LANGUAGE SKILLS
 
