@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/image26.png # image path/url
+    image: /images/Frontiers/image26.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
     caption: "Correlation graph from measured inclusions" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,8 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370><img src='/images/Frontiers/chemometrics.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
-<a  href= https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370><img src='/images/Frontiers/pca_cube.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370><img src='/images/Frontiers/chemometrics.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.3370><img src='/images/Frontiers/pca_cube.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
 
 Ion yields measured from the two-entity inclusion extracted from the chemical depth profile. Color groupings identifies elements with high affinity (i.e., CH-rich kerogen and silicate chert. Molecular ions loosely connected on the sides identifies the plasma chemistry byproducts originated on the way to the detector. Second image - decision borderlines on PCA reduced spectra.
 

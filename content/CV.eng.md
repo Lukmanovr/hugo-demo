@@ -18,7 +18,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-  image: images/Profile.jpg
+  image: images/Profile.webp
   alt: "This is my picture"
   caption: "Hey, that's my picture!"
   URL: "mail@rustam-lukmanov.ru"

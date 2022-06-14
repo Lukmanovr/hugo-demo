@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/lims.jpg # image path/url
+    image: /images/Frontiers/lims.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
     caption: "Correlation graph from measured inclusions" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201><img src='/images/Frontiers/lims.jpg' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201><img src='/images/Frontiers/lims.webp' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
 Simplified schematics of the multi-color ion generation and mass separation using fs-LIMS instrument.
 
 ### [Paper](https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201) / [PDF](/PDF/ast.2019.2201.pdf)

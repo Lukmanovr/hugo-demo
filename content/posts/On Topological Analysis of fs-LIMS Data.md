@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/On_topological.png # image path/url
+    image: /images/Frontiers/On_topological.webp # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/On_topological.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/On_topological.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
 A randomly selected subset (70%) of spectral similarity networks used for an estimation of the robustness of the covering algorithm. A 92% Rand Index shows that network can be confidently segregated into two communities.
 
 ### [Paper](https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full) / [PDF](/PDF/frai-04-668163.pdf)

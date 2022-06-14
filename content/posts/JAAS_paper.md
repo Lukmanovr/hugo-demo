@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/Jaas_cover.png # image path/url
+    image: /images/Frontiers/Jaas_cover.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
     caption: "Correlation graph from measured inclusions" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/Jaas_cover.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/Jaas_cover.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
 Journal of Analytical Atomic Spectrometry chose our contribution as a cover-article for the issue.
 
 ### [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e) / [PDF](http://wurz.space.unibe.ch/Tulej_JAAS2020.pdf)

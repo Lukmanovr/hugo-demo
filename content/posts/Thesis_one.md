@@ -23,7 +23,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 weight: 1
 cover:
-    image: /images/Frontiers/thesis2.png # image path/url
+    image: /images/Frontiers/thesis2.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
     caption: "Correlation graph from measured inclusions" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -34,7 +34,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/thesis2.png' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/thesis2.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
 This image describes a structural organization of chemical signals measured from quartz (SiO<sub>2</sub>) mineral.
 
 ### [PDF - coming soon](/PDF/frai-04-668163)

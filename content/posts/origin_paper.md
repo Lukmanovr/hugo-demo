@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/origin.png # image path/url
+    image: /images/Frontiers/origin.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
     caption: "Correlation graph from measured inclusions" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.nature.com/articles/s41598-020-66240-1><img src='/images/Frontiers/origin.png' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.nature.com/articles/s41598-020-66240-1><img src='/images/Frontiers/origin.webp' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
 In this paper we show that with our new mass spectrometry system we can detect very low abundances of organic molecules. To be precise - in the femtomole/mm<sup>-2</sup> range - which is a billionth of a millionth (10<sup>-15</sup>) of a mole (however, it's still quite a lot of molecules!)
 
 ### [Paper](https://www.nature.com/articles/s41598-020-66240-1) / [PDF](https://www.nature.com/articles/s41598-020-66240-1.pdf)

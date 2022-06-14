@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: /images/Frontiers/Eigenvector_centrality_40K_mapper-FA2.png # image path/url
+    image: /images/Frontiers/Eigenvector_centrality_40K_mapper-FA2.webp # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -33,7 +33,7 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/Averaged_image_degree1.png' alt='Journal cover image' width=max padding ='50' align='middle' style="border:3px solid grey"></a>
+<a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/Averaged_image_degree1.webp' alt='Journal cover image' width=max padding ='50' align='middle' style="border:3px solid grey"></a>
 
 Spectral proximity network of the partially averaged mass spectrometric image (40′000 mass spectra 260 single unit masses). The networks are colored according to the node degree (the degree of a node is the number of edges connected to the node).
 
