@@ -35,7 +35,7 @@ editPost:
 
 <a  href= https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full><img src='/images/Frontiers/Averaged_image_degree1.png' alt='Journal cover image' width=max padding ='50' align='middle' style="border:3px solid grey"></a>
 
-Can you extract a set of distinct chemical entities from a large (over a terabyte) and highly-dimensional (360k) mass-spectrometric image using algorithmic approaches?
+Spectral proximity network of the partially averaged mass spectrometric image (40′000 mass spectra 260 single unit masses). The networks are colored according to the node degree (the degree of a node is the number of edges connected to the node).
 
 ### [Paper](https://www.frontiersin.org/articles/10.3389/frspt.2022.718943/full) / [PDF](/PDF/frspt-03-718943.pdf)
 

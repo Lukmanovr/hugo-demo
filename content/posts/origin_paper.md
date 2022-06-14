@@ -34,7 +34,7 @@ editPost:
 ---
 
 <a  href= https://www.nature.com/articles/s41598-020-66240-1><img src='/images/Frontiers/origin.png' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
-Have you ever wondered how low in the abundance a substance should be to pass unregistered with modern analytical instruments? In this paper we show that this number can be ridiculously low. To be precise - in the femtomole/mm<sup>-2</sup> range - which is a billionth of a millionth (10<sup>-15</sup>) of a mole (however, it's still quite a lot of molecules!)
+In this paper we show that with our new mass spectrometry system we can detect very low abundances of organic molecules. To be precise - in the femtomole/mm<sup>-2</sup> range - which is a billionth of a millionth (10<sup>-15</sup>) of a mole (however, it's still quite a lot of molecules!)
 
 ### [Paper](https://www.nature.com/articles/s41598-020-66240-1) / [PDF](https://www.nature.com/articles/s41598-020-66240-1.pdf)
 
