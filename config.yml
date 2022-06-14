@@ -155,15 +155,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/circle4.png"
-    favicon16x16: "/circle4.png"
-    favicon32x32: "/circle4.png"
-    apple_touch_icon: "/circle4.png"
-    safari_pinned_tab: "/circle4.png"
+    favicon: "/circle4.webp"
+    favicon16x16: "/circle4.webp"
+    favicon32x32: "/circle4.webp"
+    apple_touch_icon: "/circle4.webp"
+    safari_pinned_tab: "/circle4.webp"
 
   label:
     text: " "
-    icon: /goose.png
+    icon: /goose.webp
     iconHeight: 35
 
   # profile-mode
