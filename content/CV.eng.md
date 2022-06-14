@@ -64,10 +64,10 @@ Feel free to contact me:
 - May 2017 – July 2017, **STEPS (Students and Researchers Exchange Program in Sciences)** - University of Tokyo, Photon Factory (PF) | KEK, Japan.
   Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA).
 - March 2017 – May 2017, **Radiological protection in environments with ionizing radiation** - Saint Petersburg Institute of Radiological Safety (NIIRG), Russia. Training for minimization of occupational hazards.
-- September 2015 – July 2017, **MSc in Geology and Geophysics** - Saint Petersburg State University, Russia.
+- September 2015 – July 2017, **MSc in Geophysics** - Saint Petersburg State University, Russia.
   Thesis – [“Local spectroscopic studies of the Iron oxidation state in mantle spinels”](https://dspace.spbu.ru/handle/11701/11527). [**PDF**](https://dspace.spbu.ru/bitstream/11701/11527/1/Dissertaciya_Lukmanov.pdf)
 - June 2014 – July 2014, **Schlumberger Wire-line** - Tumen Training Center, Tumen, Russia. Geophysical characterization of oil and gas wells - Boot Camp.
-- September 2011 – July 2015, **BSc in Geology and Geophysics** - Saint Petersburg State University, Russia.
+- September 2011 – July 2015, **BSc in Geophysics** - Saint Petersburg State University, Russia.
   Thesis – “High-frequency seismic tomography for railway bridge construction across Tuloma river”
 - September 2007 – July 2011, **Specialist in the Development and operation of oil and gas fields** (non-university technical diploma) - Neftekamsk Oil College, Neftekams, Russia
   Thesis – “Hydrodynamic methods for the investigation of reservoirs”
