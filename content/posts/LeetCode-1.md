@@ -53,7 +53,4 @@ Problem description: Given an array of integers nums and an integer target, retu
                 begin += 1
             else:
                 end -= 1
-
-
-
 ```
