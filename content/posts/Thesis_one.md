@@ -1,6 +1,6 @@
 ---
-title: "PhD Thesis"
-date: 2022-02-23T11:30:03+00:00
+title: "Thesis"
+date: 2021-08-23T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Thesis", "PhD"]
@@ -21,7 +21,6 @@ searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-weight: 1
 cover:
     image: /images/Frontiers/thesis2.webp # image path/url
     alt: "Correlation graph from measured inclusions" # alt text
