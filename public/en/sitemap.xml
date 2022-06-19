@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rustam-lukmanov.com/posts/thesis_one/</loc>
-    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://rustam-lukmanov.com/publications/</loc>
   </url><url>
-    <loc>https://rustam-lukmanov.com/tags/frontiers/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+    <loc>https://rustam-lukmanov.com/tags/leetcode/</loc>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://rustam-lukmanov.com/posts/frontiers-in-space-tech/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://rustam-lukmanov.com/tags/papers/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+    <loc>https://rustam-lukmanov.com/posts/leetcode-1/</loc>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rustam-lukmanov.com/posts/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -29,8 +23,14 @@
                 href="https://rustam-lukmanov.com/posts/"
                 />
   </url><url>
+    <loc>https://rustam-lukmanov.com/tags/problem/</loc>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/tags/python/</loc>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://rustam-lukmanov.com/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -43,7 +43,7 @@
                 />
   </url><url>
     <loc>https://rustam-lukmanov.com/tags/</loc>
-    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+    <lastmod>2022-06-03T11:30:03+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -55,16 +55,19 @@
                 href="https://rustam-lukmanov.com/tags/"
                 />
   </url><url>
+    <loc>https://rustam-lukmanov.com/tags/frontiers/</loc>
+    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/posts/frontiers-in-space-tech/</loc>
+    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/tags/papers/</loc>
+    <lastmod>2022-05-03T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://rustam-lukmanov.com/posts/jaas_paper/</loc>
     <lastmod>2022-02-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rustam-lukmanov.com/posts/astrobiology/</loc>
-    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://rustam-lukmanov.com/tags/phd/</loc>
-    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://rustam-lukmanov.com/tags/thesis/</loc>
     <lastmod>2022-02-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rustam-lukmanov.com/tags/music/</loc>
@@ -110,6 +113,15 @@
                 />
   </url><url>
     <loc>https://rustam-lukmanov.com/posts/on-topological-analysis-of-fs-lims-data/</loc>
+    <lastmod>2021-08-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/tags/phd/</loc>
+    <lastmod>2021-08-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/tags/thesis/</loc>
+    <lastmod>2021-08-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://rustam-lukmanov.com/posts/thesis_one/</loc>
     <lastmod>2021-08-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://rustam-lukmanov.com/posts/chemometrics/</loc>

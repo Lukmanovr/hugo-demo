@@ -9,7 +9,34 @@
       <link>https://rustam-lukmanov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode</title>
+      <link>https://rustam-lukmanov.com/tags/leetcode/</link>
+      <pubDate>Fri, 03 Jun 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem</title>
+      <link>https://rustam-lukmanov.com/tags/problem/</link>
+      <pubDate>Fri, 03 Jun 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/tags/problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://rustam-lukmanov.com/tags/python/</link>
+      <pubDate>Fri, 03 Jun 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Frontiers</title>
       <link>https://rustam-lukmanov.com/tags/frontiers/</link>
@@ -25,24 +52,6 @@
       <pubDate>Tue, 03 May 2022 11:30:03 +0000</pubDate>
       
       <guid>https://rustam-lukmanov.com/tags/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD</title>
-      <link>https://rustam-lukmanov.com/tags/phd/</link>
-      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://rustam-lukmanov.com/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thesis</title>
-      <link>https://rustam-lukmanov.com/tags/thesis/</link>
-      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://rustam-lukmanov.com/tags/thesis/</guid>
       <description></description>
     </item>
     
@@ -70,6 +79,24 @@
       <pubDate>Wed, 15 Sep 2021 11:30:03 +0000</pubDate>
       
       <guid>https://rustam-lukmanov.com/tags/yandex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://rustam-lukmanov.com/tags/phd/</link>
+      <pubDate>Mon, 23 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://rustam-lukmanov.com/tags/thesis/</link>
+      <pubDate>Mon, 23 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/tags/thesis/</guid>
       <description></description>
     </item>
     

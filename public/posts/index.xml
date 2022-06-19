@@ -9,14 +9,14 @@
       <link>https://rustam-lukmanov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PhD Thesis</title>
-      <link>https://rustam-lukmanov.com/posts/thesis_one/</link>
-      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
+      <title>Leetcode 2Sum problem</title>
+      <link>https://rustam-lukmanov.com/posts/leetcode-1/</link>
+      <pubDate>Fri, 03 Jun 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://rustam-lukmanov.com/posts/thesis_one/</guid>
-      <description>My PhD thesis on characterization of compounds using laser-based mass-spectrometry</description>
+      <guid>https://rustam-lukmanov.com/posts/leetcode-1/</guid>
+      <description>First try of the leetcode problems</description>
     </item>
     
     <item>
@@ -63,6 +63,15 @@ I am a big fan of Christian Löffler, his sounds whith gloomy spirits and unhurr
       
       <guid>https://rustam-lukmanov.com/posts/on-topological-analysis-of-fs-lims-data/</guid>
       <description>Our paper published in Frontiers in Artificial Intelligence</description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://rustam-lukmanov.com/posts/thesis_one/</link>
+      <pubDate>Mon, 23 Aug 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/posts/thesis_one/</guid>
+      <description>My PhD thesis on characterization of compounds using laser-based mass-spectrometry</description>
     </item>
     
     <item>
