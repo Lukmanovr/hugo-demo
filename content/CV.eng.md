@@ -42,9 +42,11 @@ I regard myself as an orderly, cooperative and curious person. I have a diverse 
 Feel free to contact me:
 **mail at rustam-lukmanov dot ru**, or use the [**contact form**](/contact/)
 
+---
+
 #### EMPLOYMENT HISTORY
 
-- September 2021 – December 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based [fs-LIMS (review article about LIMS technology)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669) instruments.
+- September 2021 – December 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based fs-LIMS ([review article about LIMS technology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669)) instruments.
 
 - September 2017 – August 2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
   Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
@@ -55,29 +57,44 @@ Feel free to contact me:
 - June 2014 – August 2014, **Field Geophysicist**, Seismoshelf, Saint-Petersburg, Russia.
   3D seismic exploration survey conducted on the Tuloma river (Murmansk region) for the railway bridge construction. Sensor grid positioning using the differential GPS (DGPS). High-frequency seismic signal generation on the grid of ocean-bottom seismometers (OBS).
 
+---
+
 #### EDUCATION
+
+- September 2017 – August 2021, [**PhD in Physics**](https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_physik/index_ger.html), University of Bern, Switzerland.
+
+  **Thesis – “Characterization of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”**.  
+  Investigation of the chemical composition of Precambrian samples using Laser Ionization Mass Spectrometer. Development of graph-based spectral classification tools/models for unsupervised characterization of large, non-linear and high-dimensional chemical data measured with space-type and high-resolution laboratory-based fs-LIMS.<br/><br/>
+
+- September 2015 – July 2017, [**MSc in Geophysics**](https://spbu.ru/postupayushchim/programms/magistratura/geofizika) - Saint Petersburg State University, Russia.  
+   **Thesis – [“Local spectroscopic studies of the Iron oxidation state in mantle spinels”](https://dspace.spbu.ru/handle/11701/11527)**. Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA). Implementation of the spectral decomposition techniques for extraction of the iron oxidation state from the mantle spinel and synthetic samples.
+  <br></br>
+- September 2011 – July 2015, **BSc in Geophysics** - Saint Petersburg State University, Russia.
+
+  **Thesis – “High-frequency seismic tomography across Tuloma river”**. Calculation of the volumetric reflection map from the seismic data cube. Construction of the interpretation map form the speed distributions and refractory parameters of the investigated area.
+
+---
+
+#### COURSES AND INTERNSHIPS
 
 - February 2022 – now, [**Web Developer**](https://practicum.yandex.ru/web/) – Yandex Practicum courses on web development (front and back-end).
 - January 2021 – July 2021, [**Innosuisse Start-Up Training**](https://www.innosuisse.ch/inno/en/home/support-for-start-ups/start-up-training.html) – Business Concept, University of Bern, Switzerland.
-- September 2017 – August 2021, [**PhD in Physics**](https://www.phinst.unibe.ch/index_eng.html), University of Bern, Switzerland.
-  Thesis – “Characterization of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”.
-- May 2017 – July 2017, **STEPS (Students and Researchers Exchange Program in Sciences)** - University of Tokyo, Photon Factory (PF) | KEK, Japan.
-  Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA).
-- March 2017 – May 2017, **Radiological protection in environments with ionizing radiation** - Saint Petersburg Institute of Radiological Safety (NIIRG), Russia. Training for minimization of occupational hazards.
-- September 2015 – July 2017, **MSc in Geophysics** - Saint Petersburg State University, Russia.
-  Thesis – [“Local spectroscopic studies of the Iron oxidation state in mantle spinels”](https://dspace.spbu.ru/handle/11701/11527). [**PDF**](https://dspace.spbu.ru/bitstream/11701/11527/1/Dissertaciya_Lukmanov.pdf)
-- June 2014 – July 2014, **Schlumberger Wire-line** - Tumen Training Center, Tumen, Russia. Geophysical characterization of oil and gas wells - Boot Camp.
-- September 2011 – July 2015, **BSc in Geophysics** - Saint Petersburg State University, Russia.
-  Thesis – “High-frequency seismic tomography for railway bridge construction across Tuloma river”
-- September 2007 – July 2011, **Specialist in the Development and operation of oil and gas fields** (non-university technical diploma) - Neftekamsk Oil College, Neftekams, Russia
-  Thesis – “Hydrodynamic methods for the investigation of reservoirs”
+- January 2019 – January 2020, [**ESA LAB / Swiss space center (SSC) – IGLUNA project**](https://space-innovation.ch/activities/igluna/). An international students competition on technology for space exploration. The P-14 project – [**LDMS for LIFE**](https://space-innovation.ch/igluna/projectteams/p14-ldmsforlife/) (development of the laser desorption mass spectrometer for characterization of complex organic molecules with remote operation), École polytechnique fédérale de Lausanne ‐ EPFL, Lausanne, Switzerland.
+- March 2018 – March 2018, [**RED’18**](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/) – rencontres exobiologiques pour doctorants, summer school, Parc Ornithologique du Teich, Le Teich, France.
+- May 2017 – July 2017, [**STEPS (Students and Researchers Exchange Program in Sciences)**](https://www.s.u-tokyo.ac.jp/en/STEPS/) - University of Tokyo, Photon Factory (PF) | KEK, Japan.
+- March 2017 – May 2017, [**Radiological protection in environments with ionizing radiation**](http://www.niirg.ru/) - Saint Petersburg Institute of Radiological Safety (NIIRG), Russia. Training for minimization of occupational hazards.
+- June 2014 – July 2014, [**Schlumberger Wire-line**](https://www.slb.com/) - Tumen Training Center, Tumen, Russia. Geophysical characterization of oil and gas wells - Boot Camp.
+
+---
 
 #### SOFTWARE AND PROGRAMMING SKILLS
 
-> Scientific Python and Matlab (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with the signal acquisition, preprocessing and analysis using conventional statistics and machine learning methods (matrix factorization, non-linear dimensionality reduction, manifold learning, NN's, GNN's, Boosting).
+Scientific **Python** and **Matlab** (Scikit-learn, Numpy, Scipy, Pandas) / Front-end stack (JavaScript, CSS, HTML). Data handling skills - experience dealing with terabyte scale data (mass spectrometric observations) and handling the full data-pipeline, starting with the signal acquisition, preprocessing and analysis using conventional statistics and machine learning methods (matrix factorization, non-linear dimensionality reduction, manifold learning, NN's, GNN's, Boosting).
 
 - Adobe Photoshop / InDesign / Illustrator. However, prefer CorelDraw/InkScape/Affinity
 - For presentations use Reveal.JS, for text - Overleaf/LaTex or Markdown (Obsidian) for simpler tasks.
+
+---
 
 #### LANGUAGE SKILLS
 

@@ -114,14 +114,12 @@ editPost:
 
 1. European cooperation in science and technology (COST) Action Grant – 400 EUR, 2018.
 
-2. [RED’18](http://www.exobiologie.fr/red/index.php/en/red16-astrobiology-course/) – rencontres exobiologiques pour doctorants, summer school, 4-10 March 2018, Parc Ornithologique du Teich, France.
-3. Moscow International Solar System Symposium, 11-15 October 2018, Moscow,
+2. Moscow International Solar System Symposium, 11-15 October 2018, Moscow,
    Russia.
-4. The European Planetary Science Congress, 19 to 24 September 2018, Berlin, Germany
-5. “The chemical characterization of 1.88Ga microfossils using LIMS technology,” invited talk at the Veterinary department of University of Bern, 23 October 2018, Bern, Switzerland.
-6. Joint congress of The European Planetary Science (EPSC) and Division for Planetary Sciences (DPS) of the American Astronomical Society (ASS), 19 to 24 September 2019, Geneva
-7. ESA LAB and Swiss space center (SSC) initiative – IGLUNA project. An international students competition on technology for space exploration. The P-14 project – [**LDMS for LIFE**](https://space-innovation.ch/igluna/projectteams/p14-ldmsforlife/) (building a laser desorption mass spectrometer for life detection with remote operation) 2019-2020, École polytechnique fédérale de Lausanne ‐ EPFL, Lausanne, Switzerland.
-8. Goldschmidt international conference on geochemistry, 18 to 23 August 2019, Barcelona
-9. The European Geosciences Union (EGU) General Assembly 2020, 25 to 30 April 2020, (online) Vienna.
-10. STEPS (Students and Researchers Exchange Program in Sciences) (Japan-Russia student exchange program) grant for a research project at University of Tokyo.
+3. The European Planetary Science Congress, 19 to 24 September 2018, Berlin, Germany
+4. “The chemical characterization of 1.88Ga microfossils using LIMS technology,” invited talk at the Veterinary department of University of Bern, 23 October 2018, Bern, Switzerland.
+5. Joint congress of The European Planetary Science (EPSC) and Division for Planetary Sciences (DPS) of the American Astronomical Society (ASS), 19 to 24 September 2019, Geneva
+6. Goldschmidt international conference on geochemistry, 18 to 23 August 2019, Barcelona
+7. The European Geosciences Union (EGU) General Assembly 2020, 25 to 30 April 2020, (online) Vienna.
+8. STEPS (Students and Researchers Exchange Program in Sciences) (Japan-Russia student exchange program) grant for a research project at University of Tokyo.
 </article>
