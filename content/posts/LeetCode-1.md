@@ -58,6 +58,7 @@ Problem description: Given an array of integers nums and an integer target, retu
 Now, let's try to run this code here in the browser using Pyscript and repl:
 
 <div>
-<py-repl id="my-repl" auto-generate=true> </py-repl>
-<py-script>print("Hello World")</py-script>
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+        <h4><a href="/posts/leetcode-1/">Clear All</a></h4>
+    <py-repl id="repl" auto-generate="True"></py-repl>
 </div>
