@@ -54,3 +54,10 @@ Problem description: Given an array of integers nums and an integer target, retu
             else:
                 end -= 1
 ```
+
+Now, let's try to run this code here in the browser using Pyscript and repl:
+
+<div>
+<py-repl id="my-repl" auto-generate=true> </py-repl>
+<py-script>print("Hello World")</py-script>
+</div>
