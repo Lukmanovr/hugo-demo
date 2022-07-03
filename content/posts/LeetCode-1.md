@@ -1,5 +1,5 @@
 ---
-title: "Running python code on my website"
+title: "Running python terminal with Pyscript"
 date: 2022-06-03T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
@@ -38,7 +38,8 @@ As an exercise we will use the leetcode solution of the 2Sum problem (using 2-po
 Problem description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 ```
-def twoSum(nums, target):
+Class Solution:
+    def twoSum(nums, target):
         nums_index = [(v, index) for index, v in enumerate(nums)]
         nums_index.sort()
         begin, end = 0, len(nums) - 1
@@ -50,9 +51,10 @@ def twoSum(nums, target):
                 begin += 1
             else:
                 end -= 1
-nums = [4,2,5,2,3,7,4, 8]
-target = 6
-twoSum(nums, target)
+
+    nums = [4,2,5,2,3,7,4, 8]
+    target = 6
+    twoSum(nums, target)
 ```
 
 Now, let's try to run this code here in the browser using Pyscript and repl. Just copy, paste the code into interactive Python repl and press the green button.
