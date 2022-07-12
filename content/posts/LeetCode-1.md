@@ -38,7 +38,6 @@ As an exercise we will use the leetcode solution of the 2Sum problem (using 2-po
 Problem description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 ```
-Class Solution:
     def twoSum(nums, target):
         nums_index = [(v, index) for index, v in enumerate(nums)]
         nums_index.sort()
