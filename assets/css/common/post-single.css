@@ -311,6 +311,7 @@
     border-radius: var(--radius);
     background: var(--code-bg);
     border: 1px solid var(--border);
+    padding: 7px;
 }
 
 .post-tags a {
