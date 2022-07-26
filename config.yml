@@ -157,7 +157,7 @@ params:
 
   label:
     text: " "
-    icon: /logo_italic5.png
+    icon: /logo_italic5.webp
     iconHeight: 35
 
   # profile-mode
