@@ -44,8 +44,6 @@ I regard myself as an orderly, cooperative and curious person. I have a diverse 
 - H-index - 6
 - Over 2000 km logged in the Nike Run app
 - 33 km - longest run so far
-- Have a contrarian mindset
--
 
 #### CONTACT INFORMATION
 
