@@ -37,6 +37,16 @@ cover:
 
 I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Have an open-minded approach to life and positive attitude towards future.
 
+#### SHORT FACTS
+
+- 29 years old
+- 23 publications (peer-reviewed journals) and 47 total contributions
+- H-index - 6
+- Over 2000 km logged in the Nike Run app
+- 33 km - longest run so far
+- Have a contrarian mindset
+-
+
 #### CONTACT INFORMATION
 
 Feel free to contact me:
