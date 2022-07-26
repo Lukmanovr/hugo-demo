@@ -119,7 +119,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light  # dark, auto 
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -157,7 +157,7 @@ params:
 
   label:
     text: " "
-    icon: /logo_italic4.png
+    icon: /logo_italic5.png
     iconHeight: 35
 
   # profile-mode
