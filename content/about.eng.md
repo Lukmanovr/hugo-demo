@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Markdown and Hugo capabilities"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: []
+tags: [Markdown]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Still figuring it out"
+description: "Short walk-through on Markdown"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -33,7 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-{{< figure align=center src="/circle.png" >}}
+---
+
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 
 <!--more-->
