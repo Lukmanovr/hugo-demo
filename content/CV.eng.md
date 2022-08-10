@@ -41,7 +41,7 @@ I regard myself as an orderly, cooperative and curious person. I have a diverse 
 
 - 29 years old
 - 23 publications (peer-reviewed journals) and 47 total contributions
-- H-index - 6
+- H-index - 7
 - Over 2000 km logged in the Nike Run app
 - 33 km - longest run so far
 
