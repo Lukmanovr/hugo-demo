@@ -157,7 +157,7 @@ params:
 
   label:
     text: " "
-    icon: /logo_italic5.webp
+    icon: /logo_italic7.png
     iconHeight: 35
 
   # profile-mode
@@ -201,7 +201,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
     <br/>
 </p>
 
-    I am a <b>Research Scientist / Engineer</b> interested in graph-theoretic data processing and representation learning. 
+    I am an <b>experimental physicist / engineer</b> interested in graph-theoretic data processing, representation learning, miniaturization of analytical devices and design in general. 
     
     My research covers specific aspects of hardware and software development for **efficient** insight retrieval from large and non-linear analytical signals.
     

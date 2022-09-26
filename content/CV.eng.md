@@ -35,11 +35,10 @@ cover:
 
 > **Rustam A. Lukmanov / 08.09.1992 / Male / Citizenship – Russian**
 
-I regard myself as an orderly, cooperative and curious person. I have a diverse technical background in analytical techniques and scientific computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Have an open-minded approach to life and positive attitude towards future.
+I regard myself as an orderly, cooperative and curious person. I have a diverse background in analytical techniques and computational methods, that I believe are applicable and transferable for a wide range of problems. Interested in progress and building things. I've got the "Shaper" archetype from Ray Dalio's test on [PrinciplesYou](https://principlesyou.com/). Have an open-minded approach to life and positive attitude towards future.
 
 #### SHORT FACTS
 
-- 29 years old
 - 23 publications (peer-reviewed journals) and 47 total contributions
 - H-index - 7
 - Over 2000 km logged in the Nike Run app
@@ -54,7 +53,7 @@ Feel free to contact me:
 
 #### EMPLOYMENT HISTORY
 
-- September 2021 – December 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based fs-LIMS ([review article about LIMS technology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669)) instruments.
+- September 2021 – May 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based fs-LIMS ([review article about LIMS technology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669)) instruments.
 
 - September 2017 – August 2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
   Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
@@ -72,11 +71,13 @@ Feel free to contact me:
 - September 2017 – August 2021, [**PhD in Physics**](https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_physik/index_ger.html), University of Bern, Switzerland.
 
   **Thesis – “Characterization of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”**.  
-  Investigation of the chemical composition of Precambrian samples using Laser Ionization Mass Spectrometer. Development of graph-based spectral classification tools/models for unsupervised characterization of large, non-linear and high-dimensional chemical data measured with space-type and high-resolution laboratory-based fs-LIMS.<br/><br/>
+  Investigation of the chemical composition of Precambrian samples using Laser Ionization Mass Spectrometer. Development of graph-based spectral classification tools/models for unsupervised characterization of large, non-linear and high-dimensional chemical data measured with space-type and high-resolution laboratory-based fs-LIMS.
+
+  - Key achievements -- Improved main characteristics of the space-prototype instrument by a factor of 10 (m/dm, snr, sensitive mass range, shot-to-shot stability of the spectral quality in heterogeneous samples). Implemented far-UV femtosecond ion source and compatible ultrafast optics for a beam delivery. Implemented an analysis pipeline for unsupervised characterization of spectral data using graphs and machine learning<br/><br/>
 
 - September 2015 – July 2017, [**MSc in Geophysics**](https://spbu.ru/postupayushchim/programms/magistratura/geofizika) - Saint Petersburg State University, Russia.  
    **Thesis – [“Local spectroscopic studies of the Iron oxidation state in mantle spinels”](https://dspace.spbu.ru/handle/11701/11527)**. Investigation of the iron oxidation state in mantle spinels using x-ray absorption near-edge structure spectroscopy (XANES), Mössbauer spectroscopy and Electron Probe Microanalysis (EPMA). Implementation of the spectral decomposition techniques for extraction of the iron oxidation state from the mantle spinel and synthetic samples.
-  <br></br>
+  - Key achievements -- Developed a new method for characterization of the iron oxidation state in mantle spinels that allows micron scale mapping and standard-free oxidation state retrieval from x-ray absorption spectra<br></br>
 - September 2011 – July 2015, **BSc in Geophysics** - Saint Petersburg State University, Russia.
 
   **Thesis – “High-frequency seismic tomography across Tuloma river”**. Calculation of the volumetric reflection map from the seismic data cube. Construction of the interpretation map form the speed distributions and refractory parameters of the investigated area.
