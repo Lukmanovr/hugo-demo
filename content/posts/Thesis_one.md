@@ -42,3 +42,5 @@ This image describes a structural organization of chemical signals measured from
 
 The thesis describes ways of improving signal quality of the novel, highly miniature mass-spectrometer designed and developed for operations in space (e.g., Moon, Mars, Europa). The improvements include hardware
 modifications, implementation of various computational approaches for better signal recovery, and summarizes future development directions. The results section is presented with 7 peer-reviewed publications, covering different aspects of ion generation, signal processing and data exploration using graph-networks and ML (see [publications](/publications/) for a full list of published articles).
+
+Here, you can find a short presentation on some of the results -- [**web presentation**](https://griac.netlify.app/#/hello)
