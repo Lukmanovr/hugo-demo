@@ -44,3 +44,5 @@ The thesis describes ways of improving signal quality of the novel, highly minia
 modifications, implementation of various computational approaches for better signal recovery, and summarizes future development directions. The results section is presented with 7 peer-reviewed publications, covering different aspects of ion generation, signal processing and data exploration using graph-networks and ML (see [publications](/publications/) for a full list of published articles).
 
 Here, you can find a short presentation on some of the results -- [**web presentation**](https://griac.netlify.app/#/hello)
+
+<iframe src="https://griac.netlify.app" style="height:600px;width:800px;" title="Iframe Example"></iframe>
