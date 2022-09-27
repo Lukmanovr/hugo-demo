@@ -45,4 +45,4 @@ modifications, implementation of various computational approaches for better sig
 
 Here, you can find a short presentation on some of the results -- [**web presentation**](https://griac.netlify.app/#/hello)
 
-<iframe src="https://griac.netlify.app" style="height:600px;width:800px;" title="Iframe Example"></iframe>
+<iframe src="https://griac.netlify.app" style="height:600px;width:800px; border-radius:10px;border:3px solid grey;" title="Iframe Example"></iframe>
