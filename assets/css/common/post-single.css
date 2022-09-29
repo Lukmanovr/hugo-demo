@@ -302,7 +302,7 @@
 .post-tags li {
     display: inline-block;
     margin-inline-end: 3px;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 
 .post-tags a,
@@ -320,7 +320,7 @@
     padding-inline-end: 14px;
     color: var(--secondary);
     font-size: 14px;
-    line-height: 34px;
+    line-height: 24px;
     background: var(--code-bg);
 }
 
