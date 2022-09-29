@@ -121,7 +121,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto  # dark,light  
   disableThemeToggle: false
-
+  stickyHeader: True
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
