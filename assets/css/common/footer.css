@@ -40,7 +40,7 @@
     width: 42px;
     height: 42px;
     padding: 12px;
-    border-radius: 64px;
+    border-radius: 5px;
     transition: visibility 0.5s, opacity 0.8s linear;
 }
 

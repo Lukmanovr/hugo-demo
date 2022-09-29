@@ -6,6 +6,7 @@ header.header-sticky {
     z-index: 1000;
     opacity: 0.9; 
     filter:(opacity=80); 
+    
 }
 .nav {
     display: flex;
@@ -15,16 +16,20 @@ header.header-sticky {
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height:var(--header-height);
+    
+    
 }
 
 .nav a {
     display: block;
+    
 }
 
 .logo,
 #menu {
     display: flex;
     margin: auto var(--gap);
+    
 }
 
 .logo {
@@ -61,6 +66,7 @@ body.dark #moon {
 
 body:not(.dark) #sun {
     display: none;
+    
 }
 
 #menu {
