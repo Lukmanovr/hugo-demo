@@ -3,6 +3,7 @@ title: Rustam A. Lukmanov
 paginate: 10
 theme: PaperMod
 
+
 defaultContentLanguage: en
 languages:
   ru:
@@ -134,6 +135,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  
 
   ##Search paprams
   params:
@@ -332,6 +334,5 @@ menu:
       weight: 40
 
 # TO DO
-# Russian version of the site.
 # Add more content to the website (paper and some parts of the thesis)
 # Add a p5JS article
