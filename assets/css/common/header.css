@@ -21,6 +21,20 @@ header.header-sticky {
     
 }
 
+
+@media screen and (max-width: 800px) {
+    .menu a:not(:first-child) {display: none;}
+    .nav a.icon {
+      float: right;
+      display: none;
+    }
+  }
+
+
+
+
+
+
 .nav a {
     display: block;
     
