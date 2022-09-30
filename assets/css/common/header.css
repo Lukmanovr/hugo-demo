@@ -4,9 +4,9 @@ header.header-sticky {
     width: 100%;
     background: var(--theme);
     z-index: 1000;
-    opacity: 0.9; 
-    filter:(opacity=80); 
-    
+    opacity: 0.95; 
+    filter:(opacity=98); 
+    box-shadow: 1px 1.5px 2px
 }
 .nav {
     display: flex;
@@ -16,6 +16,7 @@ header.header-sticky {
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height:var(--header-height);
+    
     
     
 }
@@ -85,7 +86,7 @@ body:not(.dark) #sun {
 }
 
 #menu .active {
-    font-weight: 500;
+    font-weight: 700;
     border-bottom: 2px solid currentColor;
 }
 
