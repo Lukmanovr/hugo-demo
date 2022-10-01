@@ -114,9 +114,9 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rustam A. Lukmanov
   description: "Personal website"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, Rustam Lukmanov]
   paginate: 100
-  #author: Lukmanov R.A.
+  author: Lukmanov R.A.
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
