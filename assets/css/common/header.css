@@ -23,95 +23,90 @@ header.header-sticky {
 .nav > .nav-btn {
     display: flex;
     line-height:var(--header-height);
-    
-   
   }
 
-  .nav > #nav-check {
+.nav > #nav-check {
     display: none;
   }
   
-  @media (min-width: 800px) { 
+@media (min-width: 800px) { 
     #fabar {
-        display: none;
-        border: red 2px solid;
+    display: none;
+    border: red 2px solid;
     }    
   }
 
-
-  @media (max-width:800px) {
+@media (max-width:800px) {
     .nav-btn {
       display: table;
       position: relative;
       right: 0px;
       top: 0px;
       margin:auto;
-
-
     }
-
   
-    .nav-btn > label {
-      display: table;
-      width: 60px;
-      height: 60px;
-      justify-content: space-between;
-
-      line-height: var(--header-height);
-      display:table;
+.nav-btn > label {
+    height:60px;
+    width: 60px;
+    
     }
-    .fa-bars {
+
+.fa-bars {
         display: table-cell;
         vertical-align: middle;
         text-align: center;
     }
-    .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+.nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
       background-color: rgba(0, 0, 0, 0.2);
       top:50%;
       left:50%;
       
     }
-    .nav-btn > label > span {
+.nav-btn > label > span {
         position: relative; 
         left: 30%;
         transform: translateX(-50%);
 
         
     }
-    .nav-links {
-      position: absolute;
-      display: block;
-      width: 100%;
-      background-color: #333;
-      height: 0px;
-      transition: all 0.3s ease-in;
-      overflow-y: hidden;
-      top: 60px;
-      left: 0px;
+.nav-links {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    width: 100%;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
     }
-    .nav-links > a {
-      display: block;
-      width: 100%;
-    }
-    #nav-check:not(:checked) ~ .nav-links {
-      height: 0px;
-    }
-    #nav-check:checked ~ .nav-links {
-
+.nav-links > a {
+      display: bloc;
       flex-direction: column;
-      height: calc(100vh - 50px);
+      width: 100%;
+    }
+#nav-check:not(:checked) ~ .nav-links {
+      height: 0px;      
+    }
+#nav-check:checked ~ .nav-links {
+      display: bloc;
+      height: calc(40vh - 10px);
+      width: 97%;
       overflow-y: auto;
+      border:2px solid red;
+      
     }
   }
 
+/*Selector to hide the menu check-mark */
 #nav-check {
     display: none;
 }
 
 
 .nav a {
-    display: block;
-    
+    display: block;   
 }
 
 .logo,
