@@ -41,7 +41,7 @@
 <header class="header {{ if (site.Params.stickyHeader) }}header-sticky{{ end }}">
 
     <nav class="nav">
-                
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">        
         <div class="logo">
 
             {{- $label_text := (site.Params.label.text | default site.Title) }}
@@ -131,8 +131,7 @@
             <div class="nav-btn">
                 <label for="nav-check">
                     <span>
-                        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                        <i class="fa fa-bars nav-btn" style="font-size:24px"></i>
+                    <i class="fa fa-bars" style="font-size:24px"></i>
                     </span>
                 </label>
             </div>

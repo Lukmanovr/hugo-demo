@@ -1,7 +1,7 @@
 @media screen and (max-width: 768px) {
     /* theme-vars */
     :root {
-        --gap: 24px;
+        --gap: 14px;
     }
 
     /* profile-mode */
