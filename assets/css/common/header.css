@@ -35,20 +35,27 @@ header.header-sticky {
 
   @media (max-width:600px) {
     .nav-btn {
-      display: inline-block;
+      display: table;
       position: relative;
       right: 0px;
       top: 0px;
+      margin:auto;
+
+
     }
     .nav-btn > label {
-      display:block;
+      display: table;
       width: 60px;
       height: 60px;
-      padding: 10px;
       justify-content: space-between;
-      margin-top: 3px;
+
       line-height: var(--header-height);
       display:table;
+    }
+    .fa-bars {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
     }
     .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
       background-color: rgba(0, 0, 0, 0.2);
@@ -57,16 +64,10 @@ header.header-sticky {
       
     }
     .nav-btn > label > span {
-        position:relative;
-        top:50%;
-        left:50%;
-        
-      margin: 0 auto;
-      text-align: center;
-      width: 25px;
-      height: 10px;
-      border-radius: 4%;
-      line-height: var(--header-height);
+        position: relative; 
+        left: 30%;
+        transform: translateX(-50%);
+
         
     }
     .nav-links {
@@ -77,7 +78,7 @@ header.header-sticky {
       height: 0px;
       transition: all 0.3s ease-in;
       overflow-y: hidden;
-      top: 50px;
+      top: 60px;
       left: 0px;
     }
     .nav-links > a {
