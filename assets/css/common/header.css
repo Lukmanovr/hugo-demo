@@ -31,9 +31,15 @@ header.header-sticky {
     display: none;
   }
   
+  @media (min-width: 800px) { 
+    #fabar {
+        display: none;
+        border: red 2px solid;
+    }    
+  }
 
 
-  @media (max-width:600px) {
+  @media (max-width:800px) {
     .nav-btn {
       display: table;
       position: relative;
@@ -43,6 +49,8 @@ header.header-sticky {
 
 
     }
+
+  
     .nav-btn > label {
       display: table;
       width: 60px;
