@@ -81,13 +81,15 @@ header.header-sticky {
         a {
         
         text-align: center;
+        
                       
                     } }
 
 
-#nav-check:not(:checked) > ul#menu {
-     
-          border: 2px solid white
+#nav-check:checked ~  > ul#menu {
+          margin-bottom: 2%;
+          border: 2px solid white;
+          
                     }
 
 
@@ -99,6 +101,8 @@ header.header-sticky {
         height: 100%;
         flex-direction: column;
         
+
+
         overflow: hidden;
 
                       
@@ -138,7 +142,6 @@ header.header-sticky {
     position: relative;
     display: flex;
     width: 100%;
-    background-color: #333;
     border-radius: 5px;
     margin-top: 4px;
     height: 0px;
@@ -163,8 +166,8 @@ header.header-sticky {
       width: 97%;
       margin-left:0%;
       overflow-y: auto;
-      
-      padding-top: 2%;
+      margin-bottom: 1%;
+      padding-top: 1%;
       
     }
   }
