@@ -26,8 +26,7 @@ header.header-sticky {
     margin-inline-end: auto;
     line-height:var(--header-height);
     overflow: hidden;
-    margin:0%;
-    padding:0%;
+    
 
 }
 
