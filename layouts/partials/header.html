@@ -41,6 +41,7 @@
 <header class="header {{ if (site.Params.stickyHeader) }}header-sticky{{ end }}">
 
     <nav class="nav">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">        
         <div class="logo">
 
             {{- $label_text := (site.Params.label.text | default site.Title) }}
@@ -126,11 +127,19 @@
         </div>
         {{- $currentPage := . }}
         <ul id="menu">
+            <input type="checkbox" id="nav-check">
+            <div class="nav-btn">
+                <label for="nav-check">
+                    <div id="fabar">
+                    <i class="fa fa-bars" style="font-size:24px"></i>
+                    </div>
+                </label>
+            </div>
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "asd" .URL) ) | absLangURL }}
             {{- $page_url:= $currentPage.Permalink | absLangURL }}
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
-            <li>
+            <li class="nav-links">
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
                 {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
                     <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>

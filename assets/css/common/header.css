@@ -1,12 +1,19 @@
 header.header-sticky {
     position: sticky;
-    top: 0;
-    width: 100%;
+    top: 10px;
+    width: 90%;
+
     background: var(--theme);
     z-index: 1000;
     opacity: 0.95; 
     filter:(opacity=98); 
-    box-shadow: 1px 1.5px 0px grey
+    border: 1px solid grey;
+    border-radius:0.5vh;
+    left: 4.7%;
+    margin-left: 26px;
+    margin-right: 26px;
+    margin-right: 26px;
+
 }
 .nav {
     display: flex;
@@ -16,28 +23,166 @@ header.header-sticky {
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height:var(--header-height);
-    
-    
-    
+    overflow: hidden;
+
 }
 
 
-@media screen and (max-width: 800px) {
-    .menu a:not(:first-child) {display: none;}
-    .nav a.icon {
-      float: right;
-      display: none;
-    }
+.nav > .nav-btn {
+    display: block;
+    line-height:var(--header-height);
+  }
+
+.nav > #nav-check {
+    display: none;
   }
 
 
+  
+@media (min-width: 800px) { 
+    #fabar {
+    display: none;
+    
+    }    
+  }
+
+  
+@media (max-width: 800px) { 
+    #fabar {
+        position: fixed;
+        top: 10px; right: 1hv;
+        max-width: calc(var(--nav-width) + var(--gap) * 2);
+        margin-inline-start: 34%;
+        margin-inline-end: auto;
+
+    border: rgb(179, 154, 14) ;
+    }    
+  }
+
+@media (max-width:800px) {
+    .nav-btn {
+      display: table;
+      position: relative;
+      right: 0px;
+      top: 0px;
+      margin:auto;
+    }
+
+@media (max-width:800px) {
+        li.nav-links {
+
+        position: relative;
+        display: block;
+        width: 100%;
+        margin:1%;
+        border: 0.5px solid grey
+              
+            } }
+
+@media (max-width:800px) {
+        a {
+        
+        text-align: center;
+        
+                      
+                    } }
 
 
+#nav-check:checked ~ > ul#menu {
+          margin-bottom: 20%;
+          border: 2px solid white;
+          
+                    }
+
+
+@media (max-width:800px) {
+        ul#menu {
+        position: sticky;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        margin-bottom: 2%; 
+        margin-top: -1.5%;
+        overflow: hidden;
+
+                      
+                    } }
+
+
+
+
+
+
+  
+.nav-btn > label {
+    height:60px;
+    width: 60px;
+    
+    }
+
+.fa-bars {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+    }
+.nav-links > li:hover,.nav-links  #nav-check:checked ~ .nav-links > a {
+      background-color: rgba(0, 0, 0, 0.82);
+      border: 2px solid red;
+      top:50%;
+      left:50%;
+      
+    }
+.nav-btn > label > span {
+        position: relative; 
+        left: 30%;
+        transform: translateX(-50%);
+
+        
+    }
+.nav-links {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 20%;
+    border-radius: 5px;
+    margin-top: 4px;
+    height: 0px;
+    width: 100%;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 0px;
+    left: 0px;
+    }
+.nav-links > a {
+      display: bloc;
+      flex-direction: column;
+      width: 100%;
+    }
+#nav-check:not(:checked) ~ .nav-links {
+      height: 0px;      
+      display: none;
+    }
+#nav-check:checked ~ .nav-links {
+      display: bloc;
+      height:auto;
+      width: 100%;
+      margin-left:0%;
+      overflow-y: auto;
+      margin-bottom: 1%;
+      padding-top: 1%;
+      
+    }
+  }
+
+/*Selector to hide the menu check-mark */
+#nav-check {
+    display: none;
+}
 
 
 .nav a {
-    display: block;
-    
+    display: block;   
 }
 
 .logo,
