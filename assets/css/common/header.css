@@ -1,12 +1,16 @@
 header.header-sticky {
     position: sticky;
-    top: 0;
-    width: 100%;
+    top: 10px;
+    width: 90%;
+
     background: var(--theme);
     z-index: 1000;
     opacity: 0.95; 
     filter:(opacity=98); 
-    box-shadow: 1px 1.5px 0px grey
+    border: 1px solid grey;
+    border-radius:0.5vh;
+    left: 4.8%;
+    margin: 0%;
 }
 .nav {
     display: flex;
@@ -33,6 +37,17 @@ header.header-sticky {
     #fabar {
     display: none;
     border: red 2px solid;
+    }    
+  }
+
+  
+@media (max-width: 800px) { 
+    #fabar {
+        position: relative;
+        top: 20px; right: 20px;
+    
+
+    border: rgb(179, 154, 14) 2px solid;
     }    
   }
 
