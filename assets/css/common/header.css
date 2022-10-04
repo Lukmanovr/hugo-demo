@@ -9,10 +9,10 @@ header.header-sticky {
     filter:(opacity=98); 
     border: 1px solid grey;
     border-radius:0.5vh;
-    left: 4.7%;
-    margin-left: 26px;
-    margin-right: 26px;
-    margin-right: 26px;
+    left: 5%;
+    margin-left: 4px;
+    margin-right: 4px;
+    
 
 }
 .nav {
