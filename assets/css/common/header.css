@@ -42,7 +42,7 @@ header.header-sticky {
 @media (min-width: 800px) { 
     #fabar {
     display: none;
-    border: red 2px solid;
+    
     }    
   }
 
@@ -72,10 +72,17 @@ header.header-sticky {
         position: relative;
         display: block;
         width: 100%;
-        margin:0%;
-        border: 2px solid green
+        margin:1%;
+        border: 0.5px solid grey
               
             } }
+
+@media (max-width:800px) {
+        a {
+        
+        text-align: center;
+                      
+                    } }
 
 
 #nav-check:not(:checked) > ul#menu {
@@ -156,7 +163,7 @@ header.header-sticky {
       width: 97%;
       margin-left:0%;
       overflow-y: auto;
-      border:2px solid red;
+      
       padding-top: 2%;
       
     }
