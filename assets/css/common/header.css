@@ -12,6 +12,8 @@ header.header-sticky {
     left: 5%;
     margin-left: 4px;
     margin-right: 4px;
+    margin:0%;
+    padding:0%;
     
 
 }
@@ -24,6 +26,8 @@ header.header-sticky {
     margin-inline-end: auto;
     line-height:var(--header-height);
     overflow: hidden;
+    margin:0%;
+    padding:0%;
 
 }
 
