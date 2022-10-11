@@ -14,7 +14,8 @@ header.header-sticky {
     margin-right: 4px;
     margin:0%;
     padding:0%;
-    box-shadow: rgba(122, 121, 121, 0.2) 0 2px 2px;
+    box-shadow: 0 5px 15px 0 hsla(0, 0%, 0%, 0.15);
+    border-top: 0.25rem solid 	hsl(7, 77%, 39%)
     
 
 }
