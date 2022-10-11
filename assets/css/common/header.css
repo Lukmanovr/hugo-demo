@@ -7,7 +7,7 @@ header.header-sticky {
     z-index: 1000;
     opacity: 0.95; 
     filter:(opacity=98); 
-    border: 1px solid grey;
+    
     border-radius:0.5vh;
     left: 5%;
     margin-left: 4px;
@@ -15,8 +15,7 @@ header.header-sticky {
     margin:0%;
     padding:0%;
     box-shadow: 0 5px 15px 0 hsla(0, 0%, 0%, 0.15);
-    border-top: 0.25rem solid 	hsl(7, 77%, 39%)
-    
+    border-top: 0.25rem solid 	hsl(7, 77%, 39%); 
 
 }
 .nav {
