@@ -53,7 +53,7 @@ Feel free to contact me:
 
 #### EMPLOYMENT HISTORY
 
-- September 2021 – May 2022, **Postdoctoral Researcher**, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based fs-LIMS ([review article about LIMS technology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669)) instruments.
+- September 2021 – May 2022, **Postdoctoral Researcher**, Space Research and Planetary Sciences, Physics Institute, University of Bern, Switzerland. Development of spectral classification tools/models for unsupervised characterization of compounds measured with space-type and high-resolution laboratory-based fs-LIMS ([review article about LIMS technology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/mas.21669)) instruments.
 
 - September 2017 – August 2021, **Teaching Associate**, Physics Institute, University of Bern, Switzerland.
   Introductory physics seminars/laboratory assignments for bachelor students (4-6h/week).
@@ -68,7 +68,7 @@ Feel free to contact me:
 
 #### EDUCATION
 
-- September 2017 – August 2021, [**PhD in Physics**](https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_physik/index_ger.html), University of Bern, Switzerland.
+- September 2017 – August 2021, [**PhD in Physics**](https://www.philnat.unibe.ch/studium/studienprogramme/doktoratsprogramm_physik/index_ger.html) - Physics Institute, University of Bern, Switzerland.
 
   **Thesis – “Characterization of bio-organic and inorganic chemistries using Laser-based Mass Spectrometry”**.  
   Investigation of the chemical composition of Precambrian samples using Laser Ionization Mass Spectrometer. Development of graph-based spectral classification tools/models for unsupervised characterization of large, non-linear and high-dimensional chemical data measured with space-type and high-resolution laboratory-based fs-LIMS.
