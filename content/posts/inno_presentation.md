@@ -3,7 +3,7 @@ title: "Talk at the Innopolis University"
 date: 2022-11-09T15:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["Thesis", "PhD"]
+tags: ["Innopolis", "Research"]
 author: "Rustam A. Lukmanov"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -40,3 +40,4 @@ Here, you can find an introductory presentation that I gave at the [**Innopolis 
 Full screen presentation -- [**web presentation**](https://griac.netlify.app/#/hello)
 
 <iframe src="https://griac.netlify.app" style="height:600px;width:800px; border-radius:10px;border:3px solid grey;" title="Iframe Example"></iframe>
+
