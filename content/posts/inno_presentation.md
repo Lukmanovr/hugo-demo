@@ -35,7 +35,7 @@ editPost:
 
 <a ><img src='/images/innopolis_university.webp' alt='Thesis cover' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
 
-Here, you can find an introductory presentation that I gave at the [**Innopolis University**](https://innopolis.university/en/) on the current state of the laser-based mass spectrometry technologies augmented with graph data processing and machine learning. In the second part of the talk, I discuss in detail signal processing, correlations graphs, spectral embeddings and their utility in mining unstructured spectral data.
+This presentation provides an introduction to the current state of laser-based mass spectrometry technologies that are enhanced with graph data processing and machine learning. In the second part of the talk, I delve into the topics of signal processing, correlations graphs, and spectral embeddings, and how they are useful for mining unstructured spectral data.
 
 Full screen presentation -- [**web presentation**](https://griac.netlify.app/#/hello)
 
