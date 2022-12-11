@@ -257,6 +257,10 @@
 }
 
 .toc {
+    position: sticky;
+    top: 5rem;
+    z-index: 100;
+    
     margin: 0 2px 40px 2px;
     border: 1px solid var(--border);
     background: var(--code-bg);
