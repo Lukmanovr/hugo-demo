@@ -5,11 +5,11 @@ header.header-sticky {
     width: 90%;
     top: 10px;
     width: 90%;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(55, 255, 55, 0.9);
     
     background: var(--theme);
     z-index: 1000;
-    opacity: 0.95; 
+    opacity: 0.9; 
     filter:(opacity=98); 
     
     border-radius:0.5vh;
@@ -17,8 +17,10 @@ header.header-sticky {
     
     padding:0%;
     box-shadow: 0 3px 6px 0 hsla(0, 0%, 0%, 0.25);
-    border-top: 0.25rem solid 	hsl(7, 77%, 39%); 
+    border-top: 0.25rem solid;
+    background-color: var(--theme);
     
+
 
 }
 .shader {
@@ -39,6 +41,7 @@ header.header-sticky {
     margin-inline-end: auto;
     line-height:var(--header-height);
     overflow: hidden;
+    
     
     
     
