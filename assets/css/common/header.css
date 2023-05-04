@@ -1,36 +1,21 @@
 header.header-sticky {
     position: fixed;
-    top: 10px;
-    right: 10px;
-    width: 90%;
-    top: 10px;
-    width: 90%;
-    background-color: rgba(55, 255, 55, 0.9);
-    
-    background: var(--theme);
+    top: 0; /* To make the navbar stick to the top */
+    left: 0; /* To make the navbar span the whole width */
+    width: 100%;
+     /* To give the navbar a fixed height */
+    background-color: var(--theme);
     z-index: 1000;
     opacity: 0.9; 
     filter:(opacity=98); 
-    
     border-radius:0.5vh;
-    left: 5%;
-    
     padding:0%;
-    box-shadow: 0 3px 6px 0 hsla(0, 0%, 0%, 0.25);
-    border-top: 0.25rem solid;
-    background-color: var(--theme);
+    box-shadow: 0 3px 6px 0 hsla(0, 0%, 0%, 0.45);
+    backdrop-filter: blur(10px);
+    /* To align the navbar items horizontally and center them vertically */
     
-
-
 }
-.shader {
-    z-index: -1;
-    position: absolute;
-    width:100%;
-    height:100%;
-    
-    background-color:		rgba(255, 255, 255, 0.02)
-}
+
 .nav {
     
     display: flex;
@@ -72,7 +57,7 @@ header.header-sticky {
 @media (max-width: 800px) { 
     #fabar {
         position: fixed;
-        top: 10.5px; right: 13.5%;
+        top: 0px; right: 7.5%;
         max-width: calc(var(--nav-width) + var(--gap) * 2);
         margin-inline-start: 34%;
         margin-inline-end: auto;
