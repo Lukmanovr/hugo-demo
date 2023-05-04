@@ -130,5 +130,11 @@
     left: 0;
     width: 100%;
     height: 100%;
-    
+    opacity: 0.6; /* set the opacity to 50% */
+  }
+
+  @media only screen and (max-width: 650px) {
+    #vanta-background {
+      opacity: 0.2; /* set the opacity to 50% */
+    }
   }
