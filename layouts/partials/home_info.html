@@ -1,4 +1,38 @@
 {{- with site.Params.homeInfoParams }}
+<div id="vanta-background"></div>
+    
+    <!-- Load the latest version of three.js and vanta.js from CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.net.min.js"></script>
+    <script>
+      // Create a variable to store the Vanta effect
+      let vantaEffect;
+      
+      // Initialize the Vanta effect when the window loads
+      window.addEventListener('load', function() {
+        vantaEffect = VANTA.NET({
+          el: "#vanta-background",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: true,
+          minHeight: 200.00,
+          minWidth: 200.00,
+          scale: 1.00,
+          scaleMobile: 1.00,
+          color: 0xFF0000,
+          backgroundColor: 0x1D1E20, 
+          points:15, 
+          maxDistance: 13,
+          spacing: 10,
+          showDots: true
+        });
+      });
+      
+      // Destroy the Vanta effect when the window unloads
+      window.addEventListener('unload', function() {
+        vantaEffect.destroy();
+      });
+    </script>
 <article class="first-entry home-info">
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
@@ -8,6 +42,7 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
     <div class="entry-content" class="animate__animated animate__bounce">
+
         <p>{{ .Content | markdownify }}</p>
     </div>
     <footer class="entry-footer">
