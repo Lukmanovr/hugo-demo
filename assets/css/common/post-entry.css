@@ -170,6 +170,6 @@
         margin-bottom: 1rem; /* To give some space below the section */
         display: flex; /* To use flexbox */
         align-items: left; /* To center the text vertically */
-        margin-top: 104%;
+        margin-top: 84%;
       }
   }
