@@ -160,3 +160,16 @@
     margin-left: 0%; /* To give some space from the left edge */
     
   }
+
+  @media only screen and (max-width: 650px) {
+    .hero-section {
+        height: 25%; /* To give the hero section a relative height */
+        background-image: url("background.jpg"); /* To add a background image */
+        background-size: cover; /* To make the image cover the whole section */
+        background-position: left; /* To center the image */
+        margin-bottom: 1rem; /* To give some space below the section */
+        display: flex; /* To use flexbox */
+        align-items: left; /* To center the text vertically */
+        margin-top: 104%;
+      }
+  }
