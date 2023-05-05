@@ -135,6 +135,28 @@
 
   @media only screen and (max-width: 650px) {
     #vanta-background {
-      opacity: 0.2; /* set the opacity to 50% */
+      opacity: 0.5; /* set the opacity to 50% */
     }
+  }
+
+
+  .hero-section {
+    height: 15%; /* To give the hero section a relative height */
+    background-image: url("background.jpg"); /* To add a background image */
+    background-size: cover; /* To make the image cover the whole section */
+    background-position: left; /* To center the image */
+    margin-bottom: 1rem; /* To give some space below the section */
+    display: flex; /* To use flexbox */
+    align-items: left; /* To center the text vertically */
+    margin-top: 30%;
+  }
+  
+  .hero-text {
+    font-size: 3rem; /* To make the text large */
+    font-weight: bold; /* To make the text bold */
+    font-family: "Roboto", sans-serif; /* To use a modern font */
+    color: var(--white); /* To make the text contrast with the background */
+    text-align: left; /* To align the text to the left */
+    margin-left: 0%; /* To give some space from the left edge */
+    
   }

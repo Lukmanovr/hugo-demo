@@ -1,5 +1,5 @@
 {{- with site.Params.homeInfoParams }}
-<div id="vanta-background"></div>
+<div id="vanta-background" class="animate__animated animate__fadeIn animate__slower	3s"></div>
     
     <!-- Load the latest version of three.js and vanta.js from CDN -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
@@ -34,6 +34,10 @@
       });
     </script>
 <article class="first-entry home-info">
+    <div class="hero-section">
+        <h1 class="hero-text"></h1>
+        <h2></h2>
+      </div>
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
@@ -41,7 +45,7 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
     />
-    <div class="entry-content" class="animate__animated animate__bounce">
+    <div class="entry-content" class="animate__animated">
 
         <p>{{ .Content | markdownify }}</p>
     </div>
