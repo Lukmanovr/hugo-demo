@@ -59,9 +59,6 @@ twoSum(nums, target)
 
 Now, let's try to run this code here in the browser using Pyscript and repl. Just copy, paste the code into interactive Python repl and press the green button.
 
-<h3>Interactive Python Repl</h3>
-<div>
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-        <h4><a href="/posts/leetcode-1/">Clear All</a></h4>
-    <py-repl id="repl" auto-generate="True"></py-repl>
-</div>
+
+<iframe src="/pyscript-environment.html" width="100%" height="700px" style="border: 1px solid #CCC; border-radius: 5px;"></iframe>  
+
