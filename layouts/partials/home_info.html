@@ -40,7 +40,8 @@ window.addEventListener('load', function() {
     maxDistance: 20,
     chaos: 2,
     showDots: true,
-    space:5
+    space:5,
+    spacing: currentAnimation == 0 ? 2 : 15 // If yes, use 15 as spacing; otherwise use 5
   });
   
   // Increment the current animation index by one
@@ -54,7 +55,11 @@ window.addEventListener('load', function() {
     // Set the current animation index in localStorage
     localStorage.setItem('currentAnimation', currentAnimation);
 
-    
+    // Add an event listener to the window object
+    window.addEventListener('resize', function() {
+    // Call the resize method on the Vanta effect object
+    vantaEffect.resize();
+    });
     // Add this event listener to change the filter value on scroll
     window.addEventListener('scroll', function() {
       // Get the scroll position as a fraction of the window height
