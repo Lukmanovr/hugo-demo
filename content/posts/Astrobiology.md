@@ -33,7 +33,9 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201><img src='/images/Frontiers/lims.webp' alt='Journal cover image' width=max  padding ='50' align='middle' style="border:3px solid grey"></a>
+<div class="wrapper" style="display: flex; justify-content: left; align-items: center;">
+    <img src="/images/Frontiers/lims.webp" alt="Astroniology" width="700" style="padding: 5px; border-radius: 10px; box-shadow: 0 5px 5px rgba(0,0,0,0.45);">
+</div>
 Simplified schematics of the multi-color ion generation and mass separation using fs-LIMS instrument.
 
 ### [Paper](https://www.liebertpub.com/doi/full/10.1089/ast.2019.2201) / [PDF](/PDF/ast.2019.2201.pdf)

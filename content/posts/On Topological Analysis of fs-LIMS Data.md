@@ -33,8 +33,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/On_topological.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
-A randomly selected subset (70%) of spectral similarity networks used for an estimation of the robustness of the covering algorithm. A 92% Rand Index shows that network can be confidently segregated into two communities.
+<div class="wrapper" style="display: flex; justify-content: left; align-items: center;">
+    <img src="/images/Frontiers/On_topological.webp" alt="Topo paper" width="700" style="padding: 5px; border-radius: 10px; box-shadow: 0 5px 5px rgba(0,0,0,0.45);">
+</div>
+  A randomly selected subset (70%) of spectral similarity networks used for an estimation of the robustness of the covering algorithm. A 92% Rand Index shows that network can be confidently segregated into two communities.
 
 ### [Paper](https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full) / [PDF](/PDF/frai-04-668163.pdf)
 

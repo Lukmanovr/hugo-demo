@@ -33,13 +33,15 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a ><img src='/images/Frontiers/thesis2.webp' alt='Thesis cover' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
+<div class="wrapper" style="display: flex; justify-content: left; align-items: center;">
+    <img src="/images/Frontiers/thesis2.webp" alt="Thesis cover" width="700" style="padding: 5px; border-radius: 10px; box-shadow: 0 5px 5px rgba(0,0,0,0.45);">
+</div>
+  
 This image describes a structural organization of chemical signals measured from quartz (SiO<sub>2</sub>) mineral.
 
-### [PDF - coming soon](/PDF/frai-04-668163)
+### [PDF](https://boristheses.unibe.ch/3993/)
 
 ### TL;DR
 
-The thesis describes ways of improving signal quality of the novel, highly miniature mass-spectrometer designed and developed for operations in space (e.g., Moon, Mars, Europa). The improvements include hardware
-modifications, implementation of various computational approaches for better signal recovery, and summarizes future development directions. The results section is presented with 7 peer-reviewed publications, covering different aspects of ion generation, signal processing and data exploration using graph-networks and ML (see [publications](/publications/) for a full list of published articles).
+The thesis describes ways of improving signal quality of the novel, highly miniature mass-spectrometer designed and developed for operations in space (e.g., Moon, Mars, Europa). The improvements include hardware modifications, implementation of various computational approaches for better signal recovery, and summarizes future development directions. The results section is presented with 7 peer-reviewed publications, covering different aspects of ion generation, signal processing and data exploration using graph-networks and ML (see [publications](/publications/) for a full list of published articles).
 

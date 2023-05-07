@@ -33,9 +33,10 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-<a  href= https://www.frontiersin.org/articles/10.3389/frai.2021.668163/full><img src='/images/Frontiers/Jaas_cover.webp' alt='Journal cover image' width='700'  padding ='50' align='middle' style="border:3px solid grey"></a>
-Journal of Analytical Atomic Spectrometry chose our contribution as a cover-article for the issue.
-
+<div class="wrapper" style="display: flex; justify-content: left; align-items: center;">
+    <img src="/images/Frontiers/Jaas_cover.webp" alt="Chemometrics" width="700" style="padding: 5px; border-radius: 10px; box-shadow: 0 5px 5px rgba(0,0,0,0.45);">
+</div>
+  
 ### [Paper](https://pubs.rsc.org/en/content/articlelanding/2021/ja/d0ja00390e) / [PDF](http://wurz.space.unibe.ch/Tulej_JAAS2020.pdf)
 
 ### TL;DR
