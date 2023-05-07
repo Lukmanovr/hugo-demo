@@ -199,7 +199,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
     Title: ""
     Content: "
     
-    <img src='/images/logo_BAR_short_sq.png' alt='Girl in a jacket' width='300' align='left'  style='filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.45)); opacity:0.65;'></a>
+    <img src='/images/logo_BAR_short_sq.png' alt='Girl in a jacket' width='300' align='left'  style='filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.45)); opacity:0.8;'></a>
     <p>  
     <br/>
 </p>
@@ -255,7 +255,7 @@ Feel free to contact me by email: mail at rustam-lukmanov dot ru.
   
 
 
-<a href= /contact/><img src='/images/contact_BAR.png' alt='Girl in a jacket' width='200' align='left' style='filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.45)); opacity:0.65;'></a>
+<a href= /contact/><img src='/images/contact_BAR.png' alt='Girl in a jacket' width='200' align='left' style='filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.25)); opacity:0.8;'></a>
 "
   #socialIcons:
   #  - name: twitter
