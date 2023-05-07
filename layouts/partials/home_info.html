@@ -17,7 +17,8 @@ let animations = [VANTA.TRUNK, VANTA.NET];
 
 // Create a variable to store the current animation index
 let currentAnimation;
-let chaos = Math.floor(Math.random() * 7) + 1;
+let chaos = Math.floor(Math.random() * 3) + 1;
+let points = Math.floor(Math.random() * 11) + 7;
 
 // Initialize the Vanta effect when the window loads
 window.addEventListener('load', function() {
@@ -37,12 +38,12 @@ window.addEventListener('load', function() {
     color: 0xFF3000,
     color2: 0xFF3000,
     backgroundColor: 0x1D1E20, 
-    points:10, 
+    points:[points], 
     maxDistance: 20,
     chaos: [chaos],
     showDots: true,
     space:5,
-    spacing: currentAnimation == 0 ? 5 : 15 // If yes, use 15 as spacing; otherwise use 5
+    spacing: currentAnimation == 0 ? 0 : 13 // If yes, use 15 as spacing; otherwise use 5
   });
   
   // Increment the current animation index by one
