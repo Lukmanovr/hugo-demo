@@ -38,10 +38,10 @@ window.addEventListener('load', function() {
     backgroundColor: 0x1D1E20, 
     points:10, 
     maxDistance: 20,
-    chaos: 2,
+    chaos: 3,
     showDots: true,
     space:5,
-    spacing: currentAnimation == 0 ? 2 : 15 // If yes, use 15 as spacing; otherwise use 5
+    spacing: currentAnimation == 0 ? 3 : 15 // If yes, use 15 as spacing; otherwise use 5
   });
   
   // Increment the current animation index by one
@@ -60,6 +60,7 @@ window.addEventListener('load', function() {
     // Call the resize method on the Vanta effect object
     vantaEffect.resize();
     });
+    window.addEventListener('resize', vantaEffect.resize, false);
     // Add this event listener to change the filter value on scroll
     window.addEventListener('scroll', function() {
       // Get the scroll position as a fraction of the window height
