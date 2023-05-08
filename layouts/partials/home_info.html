@@ -33,7 +33,7 @@ window.addEventListener('load', function() {
     gyroControls: false,
     minHeight: 400.00,
     minWidth: 400.00,
-    scale: 2.00,
+    scale: 1.00,
     scaleMobile: 1.00,
     color: 0xFF3000,
     color2: 0xFF3000,
@@ -90,6 +90,8 @@ navigator.mediaDevices.getUserMedia({audio: true})
 
       // Pass the rounded intensity value to the chaos parameter
       vantaEffect.options.chaos = roundedIntensity;
+      vantaEffect.options.maxDistance = roundedIntensity+20;
+      
 
       // Repeat every animation frame
       requestAnimationFrame(updateChaos);
