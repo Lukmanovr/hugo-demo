@@ -46,6 +46,65 @@ window.addEventListener('load', function() {
     spacing: currentAnimation == 0 ? 0 : 15 // If yes, use 15 as spacing; otherwise use 5
   });
   
+  // Get a reference to the vanta element
+var vanta = document.getElementById("vanta-background");
+
+// Request access to the microphone
+navigator.mediaDevices.getUserMedia({audio: true})
+  .then(function(stream) {
+    // Create an audio context
+    var audioContext = new AudioContext();
+
+    // Create a source node from the stream
+    var source = audioContext.createMediaStreamSource(stream);
+
+    // Create an analyser node
+    var analyser = audioContext.createAnalyser();
+
+    // Connect the source to the analyser
+    source.connect(analyser);
+
+    // Create a frequency data array
+    var frequencyData = new Uint8Array(analyser.frequencyBinCount);
+
+    // Define the minimum and maximum possible values of the mic intensity
+    var minIntensity = 0;
+    var maxIntensity = frequencyData.length * 255;
+
+    // Define a function to update the chaos parameter
+    function updateChaos() {
+      // Get the frequency data
+      analyser.getByteFrequencyData(frequencyData);
+
+      // Calculate the sound intensity by summing up the values
+      var intensity = 0;
+      for (var i = 0; i < frequencyData.length; i++) {
+        intensity += frequencyData[i];
+      }
+
+      // Normalize the intensity value to the range of 1 to 3
+      var normalizedIntensity = (intensity - minIntensity) * (40 - 1) / (maxIntensity - minIntensity) + 1;
+
+      // Round the normalized intensity value to the nearest integer
+      var roundedIntensity = Math.round(normalizedIntensity);
+
+      // Pass the rounded intensity value to the chaos parameter
+      vantaEffect.options.chaos = roundedIntensity;
+
+      // Repeat every animation frame
+      requestAnimationFrame(updateChaos);
+    }
+
+    // Start updating the chaos parameter
+    updateChaos();
+  })
+  .catch(function(err) {
+    // Handle error
+    console.log(err);
+  });
+
+
+
   // Increment the current animation index by one
   currentAnimation++;
   
@@ -79,6 +138,8 @@ window.addEventListener('load', function() {
     vantaEffect.destroy();
   });
 </script>
+
+
 <article class="first-entry home-info">
     <div class="hero-section">
         <h1 class="hero-text">                                          </h1>
