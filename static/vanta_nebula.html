@@ -26,19 +26,12 @@ let oz;
 
 function setup() {
  // assign some values to the global variables
- rings = 45; // the number of rings to draw
-// dim_init = 2; // the initial radius of the innermost ring
-// dim_delta = -5.05; // the increment of radius for each ring
-// chaos_init = 1.5; // the initial chaos factor for noise
-// chaos_delta = 0.15; // the increment of chaos factor for each ring
-// chaos_mag = 20; // the magnitude of noise
- 
- dim_init = 100
- dim_delta = -12
- chaos_init = 1.2
- chaos_delta = 0.12
- chaos_mag = 20
-
+ rings = 35; // the number of rings to draw
+ dim_init = 35*windowWidth/500; // the initial radius of the innermost ring
+ dim_delta = -30*windowWidth/30000; // the increment of radius for each ring
+ chaos_init = 0.8; // the initial chaos factor for noise
+ chaos_delta = 0.2 * windowWidth/1200; // the increment of chaos factor for each ring, 
+ chaos_mag = 25; // the magnitude of noise
  
 
  // assign some random values to the offsets for noise
