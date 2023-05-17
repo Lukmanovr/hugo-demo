@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+        #canvas {
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script>
+// declare some global variables for the number of rings, the initial and incremental dimensions, the initial and incremental chaos factors, the chaos magnitude, and the offsets for noise
+let rings;
+let dim_init;
+let dim_delta;
+let chaos_init;
+let chaos_delta;
+let chaos_mag;
+let ox;
+let oy;
+let oz;
+
+function setup() {
+ // assign some values to the global variables
+ rings = 5; // the number of rings to draw
+ dim_init = 50; // the initial radius of the innermost ring
+ dim_delta = 4; // the increment of radius for each ring
+ chaos_init = 2.2; // the initial chaos factor for noise
+ chaos_delta = 0.12; // the increment of chaos factor for each ring
+ chaos_mag = 20; // the magnitude of noise
+
+ // assign some random values to the offsets for noise
+ ox = random(10000);
+ oy = random(10000);
+ oz = random(10000);
+
+ // create a canvas that fills the window
+ createCanvas(windowWidth, windowHeight);
+ // set the background color to black
+ background(0);
+ // set the stroke color to gray
+ stroke(125);
+ // set the stroke weight to 2 pixels
+ strokeWeight(2);
+ // enable anti-aliasing
+ smooth();
+ // disable filling shapes
+ noFill();
+}
+
+function draw() {
+ // clear the background with black color
+ background(0);
+ // translate the origin to the center of the canvas
+ translate(width / 2, height / 2);
+ // call the display function to draw the rings
+ display();
+}
+
+function display() {
+ // update the y-offset and z-offset for noise
+ oy -= 0.02;
+ oz += 0.00005;
+
+ // loop through the number of rings
+ for (let i = 0; i < rings; i++) {
+   // calculate the radius of the current ring based on noise, dimensions, and index
+   let radius = (chaos_init * chaos_mag * getNoiseWithTime(radians(0), chaos_delta * i + chaos_init, oz))
+   + (dim_delta * i + dim_init)
+   + (i * (width / 100) || 0);
+
+   // start a new shape
+   beginShape();
+   // loop through 360 degrees
+   for (let angle = 0; angle < 360; angle++) {
+     // convert the angle to radians
+     let radian = radians(angle);
+     // calculate the radius of the current vertex based on noise, dimensions, and index
+     radius = (chaos_init * chaos_mag * getNoiseWithTime(radian, chaos_delta * i + chaos_init, oz))
+     + (dim_delta * i + dim_init)
+     + (i * (width / 100) || 0);
+     // add a vertex at the polar coordinates of the radius and angle
+     vertex(radius * cos(radian), radius * sin(radian));
+   }
+   // end the shape and close it
+   endShape(CLOSE);
+ }
+}
+
+// define a function that returns a noise value based on an angle, a dimension, and a time
+function getNoiseWithTime(radian, dim, time) {
+ // normalize the angle to be between 0 and TWO_PI (two times PI)
+ let r = radian % TWO_PI;
+ if (r < 0.0) {
+   r += TWO_PI;
+ }
+ // return a noise value based on the offsets and the parameters
+ return noise(ox + cos(r) * dim, oy + sin(r) * dim, oz + time);
+}
+
+// define a function that resizes the canvas when the window is resized
+function windowResized() {
+ resizeCanvas(windowWidth, windowHeight);
+}
+    </script>
+</head>
+<body>
+    <div id="canvas"></div>
+</body>
+</html>
