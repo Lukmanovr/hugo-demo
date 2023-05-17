@@ -34,7 +34,7 @@ window.addEventListener('load', function() {
     gyroControls: false,
     minHeight: 400.00,
     minWidth: 400.00,
-    scale: 1.35,
+    scale: 2.00,
     scaleMobile: 2.00,
     color: 0xFF3000,
     color2: 0xFF3000,
@@ -93,13 +93,13 @@ navigator.mediaDevices.getUserMedia({audio: true})
       }
 
       // Normalize the intensity value to the range of 1 to 3
-      var normalizedIntensity = (intensity - minIntensity) * (60 - 1) / (maxIntensity - minIntensity) + 1;
+      var normalizedIntensity = (intensity - minIntensity) * (40 - 1) / (maxIntensity - minIntensity) + 1;
 
       // Round the normalized intensity value to the nearest integer
-      var roundedIntensity = (normalizedIntensity);
+      var roundedIntensity = Math.round(normalizedIntensity);
 
       // Pass the rounded intensity value to the chaos parameter
-      vantaEffect.options.chaos = roundedIntensity+1.5;
+      vantaEffect.options.chaos = roundedIntensity;
       vantaEffect.options.maxDistance = roundedIntensity+18;
       
 
@@ -126,7 +126,7 @@ navigator.mediaDevices.getUserMedia({audio: true})
   }
   
     // Set the current animation index in localStorage
-    localStorage.setItem('currentAnimation', currentAnimation); 
+    localStorage.setItem('currentAnimation', currentAnimation);
 
     // Add an event listener to the window object
     window.addEventListener('resize', function() {
