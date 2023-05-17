@@ -18,7 +18,7 @@ let animations = [VANTA.TRUNK, VANTA.NET];
 
 // Create a variable to store the current animation index
 let currentAnimation;
-let chaos = Math.floor(Math.random() * 3) + 1;
+let chaos = Math.floor(Math.random() * 5) + 1;
 
 
 // Initialize the Vanta effect when the window loads
@@ -34,7 +34,7 @@ window.addEventListener('load', function() {
     gyroControls: false,
     minHeight: 400.00,
     minWidth: 400.00,
-    scale: 2.00,
+    scale: 1.50,
     scaleMobile: 2.00,
     color: 0xFF3000,
     color2: 0xFF3000,
@@ -96,7 +96,7 @@ navigator.mediaDevices.getUserMedia({audio: true})
       var normalizedIntensity = (intensity - minIntensity) * (40 - 1) / (maxIntensity - minIntensity) + 1;
 
       // Round the normalized intensity value to the nearest integer
-      var roundedIntensity = Math.round(normalizedIntensity);
+      var roundedIntensity = (normalizedIntensity);
 
       // Pass the rounded intensity value to the chaos parameter
       vantaEffect.options.chaos = roundedIntensity;

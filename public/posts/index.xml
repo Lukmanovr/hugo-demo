@@ -9,7 +9,25 @@
       <link>https://rustam-lukmanov.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 15:30:03 +0000</lastBuildDate><atom:link href="https://rustam-lukmanov.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remaking Trunk effect in P5.js</title>
+      <link>https://rustam-lukmanov.com/posts/trunk_nebula/</link>
+      <pubDate>Wed, 17 May 2023 15:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/posts/trunk_nebula/</guid>
+      <description>Remaking the trunk effect from Vanta.js</description>
+    </item>
+    
+    <item>
+      <title>Talk at the Innopolis University</title>
+      <link>https://rustam-lukmanov.com/posts/inno_presentation/</link>
+      <pubDate>Wed, 09 Nov 2022 15:30:03 +0000</pubDate>
+      
+      <guid>https://rustam-lukmanov.com/posts/inno_presentation/</guid>
+      <description>My presentation on the laser ionization mass-spectrometry and spectral embeddings</description>
+    </item>
+    
     <item>
       <title>Running python terminal with Pyscript</title>
       <link>https://rustam-lukmanov.com/posts/leetcode-1/</link>
