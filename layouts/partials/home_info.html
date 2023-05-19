@@ -99,7 +99,7 @@ navigator.mediaDevices.getUserMedia({audio: true})
       var roundedIntensity = (normalizedIntensity);
 
       // Pass the rounded intensity value to the chaos parameter
-      vantaEffect.options.chaos = roundedIntensity;
+      vantaEffect.options.chaos = roundedIntensity+1;
       vantaEffect.options.maxDistance = roundedIntensity+18;
       
 
