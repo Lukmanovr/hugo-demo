@@ -21,13 +21,13 @@ function getProportionalVariable(baseValue, screenWidth, screenHeight) {
   var ratio = screenHeight / screenWidth;
 
   // Return the variable multiplied by the ratio.
-  return baseValue * ratio;
+  return 1 * ratio;
 }
 
 // Create a variable to store the current animation index
 let currentAnimation;
 let chaos = 2;
-let proportionalWidth = Math.min(1.7, Math.max(1, getProportionalVariable(100, window.innerWidth, window.innerHeight)));
+let proportionalWidth = Math.min(1.75, Math.max(1, getProportionalVariable(100, window.innerWidth, window.innerHeight)));
 
 // Initialize the Vanta effect when the window loads
 window.addEventListener('load', function() {
