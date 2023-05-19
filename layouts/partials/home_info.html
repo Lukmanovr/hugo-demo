@@ -16,16 +16,24 @@ let vantaEffect;
 // Create an array of possible values for the background animation
 let animations = [VANTA.TRUNK, VANTA.NET];
 
+function getProportionalVariable(baseValue, screenWidth, screenHeight) {
+  // Get the ratio of the screen size to the base value.
+  var ratio = screenHeight / screenWidth;
+
+  // Return the variable multiplied by the ratio.
+  return baseValue * ratio;
+}
+
 // Create a variable to store the current animation index
 let currentAnimation;
 let chaos = 2;
-
+let proportionalWidth = Math.min(1.7, Math.max(1, getProportionalVariable(100, window.innerWidth, window.innerHeight)));
 
 // Initialize the Vanta effect when the window loads
 window.addEventListener('load', function() {
   // Get the current animation index from localStorage, or set it to zero if it doesn't exist
   currentAnimation = localStorage.getItem('currentAnimation') || 0;
-  
+
   // Use the current animation index as an index to access one of the animations
   vantaEffect = animations[currentAnimation]({
     el: "#vanta-background",
@@ -38,13 +46,13 @@ window.addEventListener('load', function() {
     scaleMobile: 2.00,
     color: 0xFF3000,
     color2: 0xFF3000,
-    backgroundColor: 0x1D1E20, 
-    points: 10, 
+    backgroundColor: 0x1D1E20,
+    points: 10,
     maxDistance: 20,
     chaos: [chaos],
     showDots: true,
-    space:5,
-    spacing: currentAnimation == 0 ? 0 : 15 // If yes, use 15 as spacing; otherwise use 5
+    space: 5,
+    spacing: currentAnimation == 0 ? proportionalWidth : 15,
   });
   
   // Get a reference to the vanta element
